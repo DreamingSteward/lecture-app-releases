@@ -1,0 +1,24 @@
+# release/ 폴더에 새 업데이트 파일이 올라오면 그 버전으로 GitHub 릴리스를 만들어 공개해요.
+# (업데이트 파일은 앱 만든 사람이 서명한 것 · 앱이 서명을 확인한 뒤에만 설치해요)
+name: release
+on:
+  push:
+    branches: [main]
+    paths: ["release/**"]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 릴리스 만들기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          VER=$(python3 -c "import json;print(json.load(open('release/update.json'))['version'])")
+          [[ "$VER" =~ ^[0-9]{4}\.[0-9]{2}\.[0-9]{2}-[0-9]{4}$ ]] || { echo "버전 형식 이상: $VER"; exit 1; }
+          if gh release view "v$VER" >/dev/null 2>&1; then echo "v$VER 이미 있음"; exit 0; fi
+          gh release create "v$VER" release/update.tgz release/update.json release/update.json.sig \
+            --title "강의록앱 $VER" --notes-file release/NOTES.md --latest
