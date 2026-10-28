@@ -28,6 +28,8 @@ jobs:
             else echo "dl branch is $(cat /tmp/dl/VERSION 2>/dev/null), not $VER → zips skipped"; fi
           fi
           if gh release view "v$VER" >/dev/null 2>&1; then
+            KEEP=" $(for f in $FILES; do basename "$f"; done | tr '\n' ' ')"
+            gh release view "v$VER" --json assets -q '.assets[].name' | while read -r a; do case "$KEEP" in *" $a "*) ;; *) gh release delete-asset "v$VER" "$a" -y;; esac; done
             gh release upload "v$VER" $FILES --clobber
             gh release edit "v$VER" --title "$VER" --notes-file release/NOTES.md --latest
           else
