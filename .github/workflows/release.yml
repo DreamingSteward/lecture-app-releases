@@ -24,7 +24,7 @@ jobs:
           if git fetch -q --depth=1 origin dl 2>/dev/null; then
             mkdir -p /tmp/dl && git --work-tree=/tmp/dl checkout FETCH_HEAD -- . && git reset -q
             if [ "$(cat /tmp/dl/VERSION 2>/dev/null)" = "$VER" ]; then
-              for f in /tmp/dl/*.zip; do FILES="$FILES $f"; done
+              for f in /tmp/dl/*.zip /tmp/dl/*.json; do [ -e "$f" ] && FILES="$FILES $f"; done
             else echo "dl branch is $(cat /tmp/dl/VERSION 2>/dev/null), not $VER → zips skipped"; fi
           fi
           if gh release view "v$VER" >/dev/null 2>&1; then
