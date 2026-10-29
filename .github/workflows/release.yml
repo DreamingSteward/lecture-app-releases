@@ -28,7 +28,7 @@ jobs:
             else echo "dl branch is $(cat /tmp/dl/VERSION 2>/dev/null), not $VER → zips skipped"; fi
           fi
           if gh release view "v$VER" >/dev/null 2>&1; then
-            KEEP=" $(for f in $FILES; do basename "$f"; done | tr '\n' ' ')"
+            KEEP=" $(for f in $FILES; do basename "$f"; done | tr '\n' ' ')LectureApp_Mac.dmg LectureApp_Windows_Setup.exe "
             gh release view "v$VER" --json assets -q '.assets[].name' | while read -r a; do case "$KEEP" in *" $a "*) ;; *) gh release delete-asset "v$VER" "$a" -y;; esac; done
             gh release upload "v$VER" $FILES --clobber
             gh release edit "v$VER" --title "$VER" --notes-file release/NOTES.md --latest
@@ -38,3 +38,60 @@ jobs:
           # 예전 릴리스 제목도 버전만으로
           gh release list --limit 100 --json tagName,name -q '.[] | select(.name != (.tagName|ltrimstr("v"))) | .tagName' | while read -r t; do gh release edit "$t" --title "${t#v}"; done
           gh release view "v$VER" --json assets -q '.assets[].name'
+
+  # 맥 설치 파일 (dmg): 맥에서 dmgbuild(hdiutil)로 · 끌어다 놓기 배경 그림
+  dmg:
+    needs: release
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: build dmg
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          VER=$(python3 -c "import json;print(json.load(open('release/update.json'))['version'])")
+          git fetch -q --depth=1 origin dl
+          mkdir -p /tmp/dl && git --work-tree=/tmp/dl checkout FETCH_HEAD -- . && git reset -q
+          [ "$(cat /tmp/dl/VERSION)" = "$VER" ] || { echo "dl branch is not $VER → dmg skipped"; exit 0; }
+          mkdir -p /tmp/mac && unzip -q /tmp/dl/LectureApp_Mac.zip -d /tmp/mac
+          python3 - <<'PY'
+          import os, unicodedata as u
+          for r, ds, fs in os.walk("/tmp/mac"):
+              apps = {u.normalize("NFC", d): os.path.join(r, d) for d in ds if d.endswith(".app")}
+              if "강의록앱.app" in apps:
+                  open("/tmp/app.txt", "w").write(apps["강의록앱.app"]); open("/tmp/uni.txt", "w").write(apps["강의록앱 삭제.app"]); break
+          PY
+          APP=$(cat /tmp/app.txt); UNI=$(cat /tmp/uni.txt)
+          echo "app: $APP / $UNI"
+          tiffutil -cathidpicheck installer/bg.png installer/bg@2x.png -out /tmp/bg.tiff
+          python3 -m venv /tmp/v && /tmp/v/bin/pip install -q dmgbuild
+          /tmp/v/bin/dmgbuild -s installer/dmg_settings.py -D app="$APP" -D uninst="$UNI" -D readme=installer/README_dmg.txt -D bg=/tmp/bg.tiff "강의록앱" /tmp/LectureApp_Mac.dmg
+          hdiutil verify /tmp/LectureApp_Mac.dmg
+          ls -la /tmp/LectureApp_Mac.dmg
+          gh release upload "v$VER" /tmp/LectureApp_Mac.dmg --clobber
+
+  # 윈도우 설치 프로그램 (exe): NSIS · 안의 install.ps1 을 그대로 실행 · 「설치된 앱」 목록에 등록
+  exe:
+    needs: release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: build exe
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LANG: C.UTF-8
+          LC_ALL: C.UTF-8
+        run: |
+          set -e
+          VER=$(python3 -c "import json;print(json.load(open('release/update.json'))['version'])")
+          git fetch -q --depth=1 origin dl
+          mkdir -p /tmp/dl && git --work-tree=/tmp/dl checkout FETCH_HEAD -- . && git reset -q
+          [ "$(cat /tmp/dl/VERSION)" = "$VER" ] || { echo "dl branch is not $VER → exe skipped"; exit 0; }
+          sudo apt-get install -y -qq nsis >/dev/null
+          mkdir -p /tmp/win && unzip -q /tmp/dl/LectureApp_Windows.zip -d /tmp/win
+          W=$(dirname "$(find /tmp/win -name install.ps1 | head -1)")
+          mkdir -p /tmp/pay && cp -a "$W/app" "$W/install.ps1" "$W/uninstall.ps1" "$W/uninstall.ico" /tmp/pay/
+          makensis -V2 -INPUTCHARSET UTF8 -DVER="$VER" -DPAY=/tmp/pay -DOUT=/tmp/LectureApp_Windows_Setup.exe installer/installer.nsi
+          ls -la /tmp/LectureApp_Windows_Setup.exe
+          gh release upload "v$VER" /tmp/LectureApp_Windows_Setup.exe --clobber
