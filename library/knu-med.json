@@ -22581,6 +22581,7314 @@
    "group": "본과 2학년 2학기"
   },
   {
+   "name": "생리학 인체의 기능과 조절",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "2/13",
+     "period": "1",
+     "title": "강좌 개요",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/13",
+     "period": "2",
+     "title": "물질이동",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/13",
+     "period": "3-4",
+     "title": "전기적현상",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/13",
+     "period": "6-7",
+     "title": "신경과학 (시냅스 1)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "2/14",
+     "period": "1",
+     "title": "근육1",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "2/14",
+     "period": "2-3",
+     "title": "신경과학 (자율신경계)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/14",
+     "period": "4",
+     "title": "신경과학 (운동신경계1)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/14",
+     "period": "6",
+     "title": "신경과학 (시냅스 2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "2/14",
+     "period": "7-8",
+     "title": "신경과학 (체성감각)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "2/15",
+     "period": "1-2",
+     "title": "신경과학 (운동신경계 2)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/15",
+     "period": "3-4",
+     "title": "신경과학 (지적 능력 및 언어)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "2/15",
+     "period": "6-7",
+     "title": "근육2",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "2/16",
+     "period": "1-2",
+     "title": "호흡 1",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/16",
+     "period": "3-4",
+     "title": "신경과학 (운동신경계 3)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/16",
+     "period": "6-7",
+     "title": "신경과학 (특수감각 1)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/17",
+     "period": "2",
+     "title": "신경과학 (특수감각 2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/17",
+     "period": "3-4",
+     "title": "신경과학 (학습 및 기억)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "2/17",
+     "period": "6-7",
+     "title": "신경과학 (감정, 동기)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/21",
+     "period": "1-2",
+     "title": "심장 1",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/21",
+     "period": "3-4",
+     "title": "호흡 2",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/21",
+     "period": "6-7",
+     "title": "순환 1",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/22",
+     "period": "1-2",
+     "title": "호흡 3",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/22",
+     "period": "3-4",
+     "title": "순환 2",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/22",
+     "period": "6-7",
+     "title": "심장 2",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/23",
+     "period": "1-2",
+     "title": "순환 3",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/23",
+     "period": "3-4",
+     "title": "호흡 4",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "2/23",
+     "period": "6-7",
+     "title": "심장 3",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/24",
+     "period": "1-2",
+     "title": "심장 4",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "2/24",
+     "period": "3-4",
+     "title": "순환 4",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/24",
+     "period": "6-7",
+     "title": "신장 1",
+     "prof": "권태환"
+    },
+    {
+     "year": "2023",
+     "date": "2/27",
+     "period": "1-2",
+     "title": "운동",
+     "prof": "한형수"
+    },
+    {
+     "year": "2023",
+     "date": "2/27",
+     "period": "3-4",
+     "title": "신장 2",
+     "prof": "권태환"
+    },
+    {
+     "year": "2023",
+     "date": "3/2",
+     "period": "2-3",
+     "title": "신장 3",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "3/2",
+     "period": "4",
+     "title": "실습수업",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "3/2",
+     "period": "6-9",
+     "title": "실습 1 (인체전기신호 기록 실습) - A 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - B 양은경·김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/3",
+     "period": "1-2",
+     "title": "내분비 1 항상성, pituitary 1",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "3/3",
+     "period": "3-4",
+     "title": "CBL1",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "3/3",
+     "period": "6-9",
+     "title": "실습 1 (인체전기신호 기록 실습) - B 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - A 양은경·김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/6",
+     "period": "1-2",
+     "title": "CBL2",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "3/6",
+     "period": "3-4",
+     "title": "신장 4",
+     "prof": "권태환"
+    },
+    {
+     "year": "2023",
+     "date": "3/6",
+     "period": "6-7",
+     "title": "내분비 2 pituitary 2, thryoid 1",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/6",
+     "period": "8",
+     "title": "육안해부학 실습개요",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/7",
+     "period": "1-2",
+     "title": "내분비 3 thyroid 2, paraT",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/7",
+     "period": "3-4",
+     "title": "혈액 1",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/7",
+     "period": "6-7",
+     "title": "신장 5",
+     "prof": "권태환"
+    },
+    {
+     "year": "2023",
+     "date": "3/8",
+     "period": "1-2",
+     "title": "혈액 2",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/8",
+     "period": "3-4",
+     "title": "내분비 4 adrenocortical",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/8",
+     "period": "6-7",
+     "title": "CBL3",
+     "prof": "문준호·배재성"
+    },
+    {
+     "year": "2023",
+     "date": "3/9",
+     "period": "1-2",
+     "title": "혈액 3",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/9",
+     "period": "3-4",
+     "title": "내분비 5 insulin",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/13",
+     "period": "1-2",
+     "title": "내분비 6 male, female 1",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/13",
+     "period": "3-4",
+     "title": "소화 1",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "3/14",
+     "period": "2",
+     "title": "체온",
+     "prof": "양은경"
+    },
+    {
+     "year": "2023",
+     "date": "3/14",
+     "period": "3-4",
+     "title": "내분비 7 female 2, pregnancy",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "3/14",
+     "period": "6-7",
+     "title": "소화 2",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "3/15",
+     "period": "2",
+     "title": "CBL4",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "3/15",
+     "period": "3-4",
+     "title": "소화 3",
+     "prof": "배재성"
+    },
+    {
+     "year": "2023",
+     "date": "3/15",
+     "period": "6-8",
+     "title": "CBL5",
+     "prof": "홍장원·전재한"
+    },
+    {
+     "year": "2023",
+     "date": "3/16",
+     "period": "1-2",
+     "title": "CBL6",
+     "prof": "김하정"
+    },
+    {
+     "year": "2023",
+     "date": "3/16",
+     "period": "3-4",
+     "title": "소화 4",
+     "prof": "김창호·배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/13",
+     "period": "1",
+     "title": "강좌개요",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/13",
+     "period": "2",
+     "title": "물질이동(1/1)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/13",
+     "period": "3-4",
+     "title": "전기적현상(2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/13",
+     "period": "6-8",
+     "title": "시냅스 및 신경정보 전달 (3/3)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/14",
+     "period": "1-2",
+     "title": "자율신경계 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/14",
+     "period": "3-4",
+     "title": "체성감각 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/14",
+     "period": "6-8",
+     "title": "운동신경계1 (3/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/15",
+     "period": "1-2",
+     "title": "지적 능력 및 언어 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/15",
+     "period": "3-4",
+     "title": "운동신경계2 (5/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/15",
+     "period": "6-8",
+     "title": "근육 (3/3)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "2/16",
+     "period": "1-2",
+     "title": "감정, 동기 (2/2)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/16",
+     "period": "3-4",
+     "title": "학습 및 기억 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "2/16",
+     "period": "6-8",
+     "title": "특수감각 (3/3)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/20",
+     "period": "1-2",
+     "title": "심장1 (2/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/20",
+     "period": "3-4",
+     "title": "호흡1 (2/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/20",
+     "period": "6-7",
+     "title": "순환1 (2/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/21",
+     "period": "1-2",
+     "title": "호흡2 (4/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/21",
+     "period": "3-4",
+     "title": "순환2 (4/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/21",
+     "period": "6-7",
+     "title": "심장2 (4/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/22",
+     "period": "1-2",
+     "title": "순환3 (6/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/22",
+     "period": "3-4",
+     "title": "심장3 (6/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/22",
+     "period": "6-7",
+     "title": "호흡3 (6/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/23",
+     "period": "1-2",
+     "title": "심장4 (8/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "2/23",
+     "period": "3-4",
+     "title": "호흡4 (8/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/23",
+     "period": "6-7",
+     "title": "순환4 (8/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/26",
+     "period": "2-3",
+     "title": "운동 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "2/28",
+     "period": "1",
+     "title": "실습수업",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "2/28",
+     "period": "2-3",
+     "title": "신장1 (2/10)",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "2/28",
+     "period": "6-9",
+     "title": "실습 1 (ECG&HRV 기록, 폐기능검사 실습) - A 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - B 양은경·김하정"
+    },
+    {
+     "year": "2024",
+     "date": "2/29",
+     "period": "1-2",
+     "title": "내분비1 (2/10)",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "2/29",
+     "period": "3-4",
+     "title": "신장2 (4/10)",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "2/29",
+     "period": "6-9",
+     "title": "실습 1 (ECG&HRV 기록, 폐기능검사 실습) - B 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - A 양은경·김하정"
+    },
+    {
+     "year": "2024",
+     "date": "3/4",
+     "period": "1-2",
+     "title": "CBL1 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2024",
+     "date": "3/4",
+     "period": "3-4",
+     "title": "혈액1 (2/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "3/4",
+     "period": "6-7",
+     "title": "내분비2 (4/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/4",
+     "period": "8-9",
+     "title": "신장3 (6/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2024",
+     "date": "3/5",
+     "period": "1-2",
+     "title": "CBL2 (2/2)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "3/5",
+     "period": "3-4",
+     "title": "내분비3 (6/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/5",
+     "period": "6-7",
+     "title": "신장4 (8/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2024",
+     "date": "3/5",
+     "period": "8-9",
+     "title": "혈액2 (4/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "3/6",
+     "period": "1-2",
+     "title": "CBL3 (2/2)",
+     "prof": "문준호·배재성"
+    },
+    {
+     "year": "2024",
+     "date": "3/6",
+     "period": "3-4",
+     "title": "내분비4 (8/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/6",
+     "period": "6-7",
+     "title": "신장5 (10/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2024",
+     "date": "3/7",
+     "period": "1-2",
+     "title": "내분비5 (10/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/7",
+     "period": "3-4",
+     "title": "혈액3 (6/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "3/11",
+     "period": "1-2",
+     "title": "내분비6 (2/4)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/11",
+     "period": "3-4",
+     "title": "소화1 (2/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "3/11",
+     "period": "6-8",
+     "title": "CBL5 (3/3)",
+     "prof": "전재한·홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/12",
+     "period": "2",
+     "title": "체온 (1/1)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2024",
+     "date": "3/12",
+     "period": "3-4",
+     "title": "내분비7 (4/4)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "3/12",
+     "period": "6-7",
+     "title": "소화2 (4/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "3/13",
+     "period": "2",
+     "title": "CBL4 (1/1)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "3/13",
+     "period": "3-4",
+     "title": "소화3 (6/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2024",
+     "date": "3/14",
+     "period": "1-2",
+     "title": "CBL6 (2/2)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2024",
+     "date": "3/14",
+     "period": "3-4",
+     "title": "소화4",
+     "prof": "김창호·배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/10",
+     "period": "1",
+     "title": "강좌개요",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/10",
+     "period": "2",
+     "title": "물질이동 (1/1)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/10",
+     "period": "3-4",
+     "title": "전기적현상 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/10",
+     "period": "6-7",
+     "title": "심장 (2/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/11",
+     "period": "1-2",
+     "title": "심장 (4/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/11",
+     "period": "3-4",
+     "title": "소화 (2/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/11",
+     "period": "6-7",
+     "title": "호흡 (2/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/12",
+     "period": "1-2",
+     "title": "소화 (4/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/12",
+     "period": "3-4",
+     "title": "호흡 (4/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/12",
+     "period": "6-7",
+     "title": "심장 (6/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/13",
+     "period": "1-2",
+     "title": "호흡 (6/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/13",
+     "period": "3-4",
+     "title": "심장 (8/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/13",
+     "period": "6-7",
+     "title": "소화 (6/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/14",
+     "period": "2-4",
+     "title": "근육 (3/3)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/14",
+     "period": "6-7",
+     "title": "호흡 (8/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/17",
+     "period": "1-2",
+     "title": "운동 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/17",
+     "period": "3-4",
+     "title": "소화 (8/8)",
+     "prof": "김창호·배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/18",
+     "period": "1-2",
+     "title": "CBL1",
+     "prof": "문준호·배재성"
+    },
+    {
+     "year": "2025",
+     "date": "2/18",
+     "period": "3-4",
+     "title": "CBL2",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/20",
+     "period": "1-2",
+     "title": "내분비 (2/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/20",
+     "period": "3-4",
+     "title": "혈액 (2/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/20",
+     "period": "6-7",
+     "title": "순환 (2/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/21",
+     "period": "1-2",
+     "title": "순환 (4/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/21",
+     "period": "3-4",
+     "title": "내분비 (4/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/21",
+     "period": "6-7",
+     "title": "혈액 (4/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/24",
+     "period": "1-2",
+     "title": "혈액 (6/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/24",
+     "period": "3-4",
+     "title": "순환 (6/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/24",
+     "period": "6-7",
+     "title": "내분비 (6/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/25",
+     "period": "1-2",
+     "title": "내분비 (8/10)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "2/25",
+     "period": "3-4",
+     "title": "순환 (8/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "2/25",
+     "period": "6",
+     "title": "체온 (1/1)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "2/26",
+     "period": "1",
+     "title": "실습수업",
+     "prof": ""
+    },
+    {
+     "year": "2025",
+     "date": "2/26",
+     "period": "2-3",
+     "title": "내분비 (10/10)",
+     "prof": ""
+    },
+    {
+     "year": "2025",
+     "date": "2/26",
+     "period": "6-9",
+     "title": "실습 1 (ECG&HRV 기록, 폐기능검사 실습) - A 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - B 양은경·김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/27",
+     "period": "1-2",
+     "title": "CBL3",
+     "prof": ""
+    },
+    {
+     "year": "2025",
+     "date": "2/27",
+     "period": "3-4",
+     "title": "CBL4",
+     "prof": ""
+    },
+    {
+     "year": "2025",
+     "date": "2/27",
+     "period": "6-9",
+     "title": "실습 1 (ECG&HRV 기록, 폐기능검사 실습) - B 양은경/김하정",
+     "prof": "실습 2 (분석·시뮬레이션 실습) - A 양은경·김하정"
+    },
+    {
+     "year": "2025",
+     "date": "2/28",
+     "period": "2-4",
+     "title": "CBL5",
+     "prof": "홍장원·전재한"
+    },
+    {
+     "year": "2025",
+     "date": "3/5",
+     "period": "2-4",
+     "title": "시냅스 및 신경정보 전달 (3/3)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "3/5",
+     "period": "6-7",
+     "title": "신장 (2/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025",
+     "date": "3/6",
+     "period": "1-2",
+     "title": "자율신경계 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "3/6",
+     "period": "3-4",
+     "title": "신장 (4/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025",
+     "date": "3/6",
+     "period": "6-7",
+     "title": "체성감각 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "3/7",
+     "period": "1-2",
+     "title": "신장 (6/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025",
+     "date": "3/7",
+     "period": "3-4",
+     "title": "지적 능력 및 언어 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "3/7",
+     "period": "6-7",
+     "title": "운동신경계1 (2/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "3/10",
+     "period": "1-2",
+     "title": "학습 및 기억 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "3/10",
+     "period": "3-4",
+     "title": "신장 (8/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025",
+     "date": "3/10",
+     "period": "6-8",
+     "title": "운동신경계2 (5/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "3/11",
+     "period": "1-2",
+     "title": "신장 (10/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025",
+     "date": "3/11",
+     "period": "3-4",
+     "title": "감정 및 동기 (2/2)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025",
+     "date": "3/11",
+     "period": "6-7",
+     "title": "내분비 (2/4)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "3/12",
+     "period": "1",
+     "title": "CBL6",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025",
+     "date": "3/12",
+     "period": "2-4",
+     "title": "특수감각 (3/3)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025",
+     "date": "3/13",
+     "period": "1-2",
+     "title": "내분비 (4/4)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/29",
+     "period": "1",
+     "title": "강좌개요",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/29",
+     "period": "2",
+     "title": "물질이동 (1/1)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/29",
+     "period": "3-4",
+     "title": "전기적현상 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/29",
+     "period": "6-8",
+     "title": "심장 (3/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/30",
+     "period": "1-4",
+     "title": "순환 (4/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/30",
+     "period": "6-8",
+     "title": "근육 (3/3)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/31",
+     "period": "1-4",
+     "title": "소화 (4/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "12/31",
+     "period": "6-8",
+     "title": "심장 (6/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/2",
+     "period": "1-2",
+     "title": "혈액 (2/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/2",
+     "period": "3-4",
+     "title": "순환 (6/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/2",
+     "period": "6-7",
+     "title": "심장 (8/8)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/2",
+     "period": "8",
+     "title": "체온 (1/1)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/5",
+     "period": "1-4",
+     "title": "소화 (8/8)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/6",
+     "period": "1-2",
+     "title": "순환 (8/8)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/6",
+     "period": "3-4",
+     "title": "운동 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/7",
+     "period": "1-4",
+     "title": "혈액 (6/6)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/8",
+     "period": "1-4",
+     "title": "호흡 (4/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/9",
+     "period": "1-4",
+     "title": "호흡 (8/8)",
+     "prof": "김하정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/13",
+     "period": "1-2",
+     "title": "시냅스 및 신경정보전달 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/13",
+     "period": "3-4",
+     "title": "운동신경계 (2/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/13",
+     "period": "6-7",
+     "title": "자율신경계 (2/2)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/14",
+     "period": "1-2",
+     "title": "지적능력 및 언어 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/14",
+     "period": "3-4",
+     "title": "체성감각 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/14",
+     "period": "6-8",
+     "title": "운동신경계 (5/5)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/15",
+     "period": "1-4",
+     "title": "신장 (4/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/15",
+     "period": "6-8",
+     "title": "내분비 (3/14)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/16",
+     "period": "1-2",
+     "title": "학습 및 기억 (2/2)",
+     "prof": "배재성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/16",
+     "period": "3-4",
+     "title": "신장 (6/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/16",
+     "period": "6-8",
+     "title": "내분비 (6/14)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/19",
+     "period": "1-4",
+     "title": "신장 (10/10)",
+     "prof": "권태환"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/19",
+     "period": "6-7",
+     "title": "감정 및 동기 (2/2)",
+     "prof": "양은경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/20",
+     "period": "1-4",
+     "title": "내분비 (10/14)",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/21",
+     "period": "2-4",
+     "title": "특수감각계 (3/3)",
+     "prof": "한형수"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/22",
+     "period": "1-4",
+     "title": "내분비 (14/14)",
+     "prof": "홍장원"
+    }
+   ]
+  },
+  {
+   "name": "인체해부학 3",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "3/20",
+     "period": "1-9",
+     "title": "육안 해부 실습 Washing & Tribute / Skinning & Posterior dissection",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/21",
+     "period": "1-9",
+     "title": "육안 해부 실습 Posterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/22",
+     "period": "1-9",
+     "title": "육안 해부 실습 Posterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/23",
+     "period": "1-9",
+     "title": "육안 해부 실습 Skinning & Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/24",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/27",
+     "period": "1-4",
+     "title": "에세이 수업 - 해부를 하며 바라본 인간과 죽음 -",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/27",
+     "period": "6-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/28",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/29",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/30",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "3/31",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "4/3",
+     "period": "1-4",
+     "title": "신경 해부 실습",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "4/3",
+     "period": "6-9",
+     "title": "Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "4/4",
+     "period": "1-9",
+     "title": "Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2023",
+     "date": "4/5",
+     "period": "1-4",
+     "title": "Review",
+     "prof": "이경민 (박광락)"
+    },
+    {
+     "year": "2024",
+     "date": "3/18",
+     "period": "1-9",
+     "title": "육안 해부 실습 Washing & Tribute / Skinning & Posterior dissection",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/19",
+     "period": "1-9",
+     "title": "육안 해부 실습 Posterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/20",
+     "period": "1-9",
+     "title": "육안 해부 실습 Posterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/21",
+     "period": "1-9",
+     "title": "육안 해부 실습 Skinning & Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/22",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/25",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/26",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/27",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/28",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "3/29",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "4/1",
+     "period": "1-9",
+     "title": "육안 해부 실습 Anterior dissection & Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "4/2",
+     "period": "1-9",
+     "title": "Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "4/3",
+     "period": "1-4",
+     "title": "Review",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2025",
+     "date": "3/17",
+     "period": "1-2",
+     "title": "해부학 오리엔테이션 및 추모식",
+     "prof": "김동선·남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/17",
+     "period": "3-4",
+     "title": "해부학실습(1) 카데바 워싱 A/B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/17",
+     "period": "6-9",
+     "title": "해부학실습(2) Washing cadaver & Post. skinning & dissection A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/18",
+     "period": "1-4",
+     "title": "해부학실습(3) Washing cadaver & Post. skinning & dissection B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/18",
+     "period": "6-9",
+     "title": "해부학실습(4) Posterior dissection (Pone position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/19",
+     "period": "1-4",
+     "title": "해부학실습(5) Posterior dissection (Pone position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/19",
+     "period": "6-9",
+     "title": "해부학실습(6) Posterior dissection (Pone position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/20",
+     "period": "1-4",
+     "title": "해부학실습(7) Posterior dissection (Pone position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/20",
+     "period": "6-9",
+     "title": "해부학실습(8) Review A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/21",
+     "period": "1-4",
+     "title": "해부학실습(9) Review B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/21",
+     "period": "6-9",
+     "title": "해부학실습(10) Ant. skinning & dissection A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/24",
+     "period": "1-4",
+     "title": "해부학 시신 기증자 추모 백일장",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/24",
+     "period": "6-9",
+     "title": "해부학실습(11) Ant. skinning & dissection B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/25",
+     "period": "1-4",
+     "title": "해부학실습(12) Anterior dissection (supine position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/25",
+     "period": "6-9",
+     "title": "해부학실습(13) Anterior dissection (supine position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/26",
+     "period": "1-4",
+     "title": "해부학실습(14) Anterior dissection (supine position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/26",
+     "period": "6-9",
+     "title": "해부학실습(15) Anterior dissection (supine position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/27",
+     "period": "1-4",
+     "title": "해부학실습(16) Anterior dissection (supine position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/27",
+     "period": "6-9",
+     "title": "해부학실습(17) Anterior dissection (supine position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/28",
+     "period": "1-4",
+     "title": "해부학실습(18) Anterior dissection (supine position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/28",
+     "period": "6-9",
+     "title": "해부학실습(19) Anterior dissection (supine position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/31",
+     "period": "1-4",
+     "title": "해부학실습(20) Anterior dissection (supine position) A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "3/31",
+     "period": "6-9",
+     "title": "해부학실습(21) Anterior dissection (supine position) B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "4/1",
+     "period": "1-4",
+     "title": "해부학실습(22) Review A",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "4/1",
+     "period": "6-9",
+     "title": "해부학실습(23) Review B",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "4/2",
+     "period": "9",
+     "title": "Feedback 종강식",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/26",
+     "period": "1-2",
+     "title": "해부학 오리엔테이션 및 추모식",
+     "prof": "남용석·김동선"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/26",
+     "period": "3-4",
+     "title": "카데바 워싱",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/26",
+     "period": "6-9",
+     "title": "해부학(1) : prone position Post. skinning & dissection",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/27",
+     "period": "1-4",
+     "title": "해부학(2) : prone position Posterior superficial layer (Back, Upper & Lower Limb)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/27",
+     "period": "6-9",
+     "title": "해부학(3) : prone position Back muscle, Posterior Arm, Gluteal Region & Posterior Thigh",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/28",
+     "period": "1-4",
+     "title": "해부학(4) : prone position Deep back muscle, Posterior & anterior Forearm, Posterior Leg, Suboccipital Region",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/28",
+     "period": "6-9",
+     "title": "해부학(5) : prone position Deep back muscle, Posterior & anterior Forearm, Posterior Leg, Suboccipital Region",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/29",
+     "period": "1-4",
+     "title": "해부학(6) : supine position Ant. skinning & dissection",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/29",
+     "period": "6-9",
+     "title": "해부학(7) : supine position Anterior superficial layer",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/30",
+     "period": "1-4",
+     "title": "해부학(8) : supine position Pectoral region & Anterior Arm, Anterior Thigh, Triangle of Neck, Thoracic wall (열기), Abdominal walll & Inguinal Canal",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "1/30",
+     "period": "6-9",
+     "title": "해부학(9) : supine position Pectoral region & Anterior Arm, Anterior Thigh, Triangle of Neck, Thoracic wall (열기), Abdominal walll & Inguinal Canal",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/2",
+     "period": "1-4",
+     "title": "해부학(10) : supine position Axilla (Brachial Plexus), Medial Thigh, Face (Deep layer), Superior Mediastinum, Abdominal cavity (소화기 적출)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/2",
+     "period": "6-9",
+     "title": "해부학(11) : supine position Axilla (Brachial Plexus), Medial Thigh, Face (Deep layer), Superior Mediastinum, Abdominal cavity (소화기 적출)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/3",
+     "period": "1-4",
+     "title": "해부학(12) : supine position Axilla (Brachial Plexus), Perineum, Scalp & Internal structures (뇌적출) & Spinal cord, Thoracic cavity & Pleura, Abdominal cavity (간적출, 뒤배벽장기)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/3",
+     "period": "6-9",
+     "title": "해부학(13) : supine position Axilla (Brachial Plexus), Perineum, Scalp & Internal structures (뇌적출) & Spinal cord, Thoracic cavity & Pleura, Abdominal cavity (간적출, 뒤배벽장기)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/4",
+     "period": "1-4",
+     "title": "해부학(14) : supine position Shoulder region, Anterior Leg, Skull base, Orbit, Middle ear, Anterior Mediastinum & Lung (허파 적출), Abdominal cavity (배안장기 관찰)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/4",
+     "period": "6-9",
+     "title": "해부학(15) : supine position Shoulder region, Anterior Leg, Skull base, Orbit, Middle ear, Anterior Mediastinum & Lung (허파 적출), Abdominal cavity (배안장기 관찰)",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/5",
+     "period": "1-4",
+     "title": "해부학(16) : supine position Anterior Forearm, Lateral Leg, Sagittal section of head (Oral cavity, Tongue), Percardium & Heart (심장 적출), Middle Mediastinum, Posterior Abdominal Wall & Pelvis",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/5",
+     "period": "6-9",
+     "title": "해부학(17) : supine position Anterior Forearm, Lateral Leg, Sagittal section of head (Oral cavity, Tongue), Percardium & Heart (심장 적출), Middle Mediastinum, Posterior Abdominal Wall & Pelvis",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/6",
+     "period": "1-4",
+     "title": "해부학(18) : supine position Hand, Foot, Internal organ of Neck (Root, Pharynx, Larynx), Trachea & Bronchus (가슴안장기 관찰), Posterior Mediastinum, Diaphragm & Pelvis and Reproductive Systems",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/6",
+     "period": "6-9",
+     "title": "해부학(19) : supine position Hand, Foot, Internal organ of Neck (Root, Pharynx, Larynx), Trachea & Bronchus (가슴안장기 관찰), Posterior Mediastinum, Diaphragm & Pelvis and Reproductive Systems",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/9",
+     "period": "1-4",
+     "title": "해부학(20) : Review",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/9",
+     "period": "9",
+     "title": "Feedback 종강식",
+     "prof": ""
+    }
+   ]
+  },
+  {
+   "name": "인체면역학",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "4/6",
+     "period": "1",
+     "title": "1. 면역반응 일반적 특성",
+     "prof": "김정철"
+    },
+    {
+     "year": "2023",
+     "date": "4/6",
+     "period": "2-3",
+     "title": "2. 면역세포 및 조직",
+     "prof": "박태인"
+    },
+    {
+     "year": "2023",
+     "date": "4/6",
+     "period": "4",
+     "title": "3. 백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "4/6",
+     "period": "6",
+     "title": "3. 백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "4/7",
+     "period": "1-2",
+     "title": "4. 자연면역",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/7",
+     "period": "3-4",
+     "title": "5. 항원과 항체",
+     "prof": "김문규"
+    },
+    {
+     "year": "2023",
+     "date": "4/10",
+     "period": "1-2",
+     "title": "6. MHC",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/10",
+     "period": "3-4",
+     "title": "7. TCR과 신호전달",
+     "prof": "성영관"
+    },
+    {
+     "year": "2023",
+     "date": "4/11",
+     "period": "1",
+     "title": "8. 임파구의 분화와 항원 수용체 발현",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/11",
+     "period": "2",
+     "title": "9. T세포의 활성화",
+     "prof": "김문규"
+    },
+    {
+     "year": "2023",
+     "date": "4/11",
+     "period": "3",
+     "title": "10. CD4+ T cell",
+     "prof": "김문규"
+    },
+    {
+     "year": "2023",
+     "date": "4/11",
+     "period": "4",
+     "title": "12. B 세포의 활성화",
+     "prof": "성영관"
+    },
+    {
+     "year": "2023",
+     "date": "4/11",
+     "period": "6",
+     "title": "13. 체액성 면역반응",
+     "prof": "성영관"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "1",
+     "title": "14. Regional Immunity",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "2-3",
+     "title": "16. Immunity to Microbes",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "4",
+     "title": "20. Allergy",
+     "prof": "이원주"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "6",
+     "title": "환자증례수업",
+     "prof": "이원주"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "7-8",
+     "title": "21. 면역결핍과 HIV",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2023",
+     "date": "4/12",
+     "period": "9",
+     "title": "환자증례수업",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2023",
+     "date": "4/13",
+     "period": "1-2",
+     "title": "19. Hypersensitivity",
+     "prof": "한승우"
+    },
+    {
+     "year": "2023",
+     "date": "4/13",
+     "period": "3",
+     "title": "15. 면역관용",
+     "prof": "남언정"
+    },
+    {
+     "year": "2023",
+     "date": "4/13",
+     "period": "4",
+     "title": "환자증례수업",
+     "prof": "남언정"
+    },
+    {
+     "year": "2023",
+     "date": "4/13",
+     "period": "6",
+     "title": "17. 이식면역",
+     "prof": "김찬덕"
+    },
+    {
+     "year": "2023",
+     "date": "4/14",
+     "period": "3",
+     "title": "18. 암면역학",
+     "prof": "김문규"
+    },
+    {
+     "year": "2023",
+     "date": "4/14",
+     "period": "4",
+     "title": "기종평 기출 리뷰",
+     "prof": "김문규"
+    },
+    {
+     "year": "2023",
+     "date": "4/17",
+     "period": "1-4",
+     "title": "면역학실습",
+     "prof": "김문규·성영관·김정철·서인철"
+    },
+    {
+     "year": "2023",
+     "date": "4/18",
+     "period": "2-3",
+     "title": "면역학 평가",
+     "prof": "김문규·성영관·김정철·서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/4",
+     "period": "1",
+     "title": "1. 면역반응 일반적 특성",
+     "prof": "김정철"
+    },
+    {
+     "year": "2024",
+     "date": "4/4",
+     "period": "2-3",
+     "title": "2. 면역세포 및 조직",
+     "prof": "박태인"
+    },
+    {
+     "year": "2024",
+     "date": "4/4",
+     "period": "4",
+     "title": "3. 백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "4/4",
+     "period": "6",
+     "title": "3. 백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "4/5",
+     "period": "1-2",
+     "title": "4. 자연면역",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/5",
+     "period": "3-4",
+     "title": "5. 항원과 항체",
+     "prof": "김문규"
+    },
+    {
+     "year": "2024",
+     "date": "4/8",
+     "period": "1-2",
+     "title": "6. MHC",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/8",
+     "period": "3-4",
+     "title": "7. TCR과 신호전달",
+     "prof": "성영관"
+    },
+    {
+     "year": "2024",
+     "date": "4/8",
+     "period": "6",
+     "title": "8. 임파구의 분화와 항원 수용체 발현",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "1",
+     "title": "9. T세포의 활성화",
+     "prof": "김문규"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "2",
+     "title": "10. CD4+ T cell",
+     "prof": "김문규"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "3",
+     "title": "12. B 세포의 활성화",
+     "prof": "성영관"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "4",
+     "title": "13. 체액성 면역반응",
+     "prof": "성영관"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "6",
+     "title": "14. Regional Immunity",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/9",
+     "period": "7-8",
+     "title": "16. Immunity to Microbes",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/11",
+     "period": "1-2",
+     "title": "19. Hypersensitivity",
+     "prof": "한승우"
+    },
+    {
+     "year": "2024",
+     "date": "4/11",
+     "period": "3",
+     "title": "15. 면역관용",
+     "prof": "남언정"
+    },
+    {
+     "year": "2024",
+     "date": "4/11",
+     "period": "4",
+     "title": "환자증례수업",
+     "prof": "남언정"
+    },
+    {
+     "year": "2024",
+     "date": "4/11",
+     "period": "6",
+     "title": "17. 이식면역",
+     "prof": "김찬덕"
+    },
+    {
+     "year": "2024",
+     "date": "4/12",
+     "period": "1-2",
+     "title": "21. 면역결핍과 HIV",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2024",
+     "date": "4/12",
+     "period": "3",
+     "title": "환자증례수업",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2024",
+     "date": "4/12",
+     "period": "6",
+     "title": "20. Allergy",
+     "prof": "이원주"
+    },
+    {
+     "year": "2024",
+     "date": "4/12",
+     "period": "7",
+     "title": "환자증례수업",
+     "prof": "이원주"
+    },
+    {
+     "year": "2024",
+     "date": "4/15",
+     "period": "2",
+     "title": "18. 암면역학",
+     "prof": "김문규"
+    },
+    {
+     "year": "2024",
+     "date": "4/15",
+     "period": "3",
+     "title": "기종평 기출 리뷰",
+     "prof": "김문규"
+    },
+    {
+     "year": "2024",
+     "date": "4/15",
+     "period": "6-9",
+     "title": "면역학실습",
+     "prof": "김문규·성영관·김정철·서인철"
+    },
+    {
+     "year": "2024",
+     "date": "4/16",
+     "period": "2-3",
+     "title": "면역학 평가",
+     "prof": "김문규·성영관·김정철·서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/3",
+     "period": "2",
+     "title": "면역반응의 일반적 특성",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/3",
+     "period": "3-4",
+     "title": "면역세포 및 조직",
+     "prof": "박태인"
+    },
+    {
+     "year": "2025",
+     "date": "4/3",
+     "period": "6-7",
+     "title": "백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "4/4",
+     "period": "3-4",
+     "title": "자연면역",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/4",
+     "period": "6-7",
+     "title": "항원과 항체",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/7",
+     "period": "1-2",
+     "title": "MHC",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/7",
+     "period": "3-4",
+     "title": "TCR과 신호전달",
+     "prof": "성영관"
+    },
+    {
+     "year": "2025",
+     "date": "4/7",
+     "period": "6",
+     "title": "임파구의 분화와 항원 수용체 발현",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/8",
+     "period": "1-2",
+     "title": "T세포의 활성화 CD4+ & CD8+ T cells",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/8",
+     "period": "3",
+     "title": "B 세포의 활성화",
+     "prof": "성영관"
+    },
+    {
+     "year": "2025",
+     "date": "4/8",
+     "period": "4",
+     "title": "체액성 면역반응",
+     "prof": "성영관"
+    },
+    {
+     "year": "2025",
+     "date": "4/8",
+     "period": "6",
+     "title": "Regional Immunity",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/9",
+     "period": "2",
+     "title": "Immunity to Microbes",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/9",
+     "period": "3",
+     "title": "[토론실습] Infection & Immunology",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/9",
+     "period": "4",
+     "title": "암면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/9",
+     "period": "6-9",
+     "title": "[실험실습] ELISA",
+     "prof": "성영관·서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/10",
+     "period": "1-2",
+     "title": "Hypersensitivity",
+     "prof": "한승우"
+    },
+    {
+     "year": "2025",
+     "date": "4/10",
+     "period": "3",
+     "title": "면역관용",
+     "prof": "남언정"
+    },
+    {
+     "year": "2025",
+     "date": "4/10",
+     "period": "4",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "남언정"
+    },
+    {
+     "year": "2025",
+     "date": "4/10",
+     "period": "6",
+     "title": "이식면역",
+     "prof": "김찬덕"
+    },
+    {
+     "year": "2025",
+     "date": "4/11",
+     "period": "2-3",
+     "title": "면역결핍과 HIV",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2025",
+     "date": "4/11",
+     "period": "4",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2025",
+     "date": "4/11",
+     "period": "6",
+     "title": "Allergy",
+     "prof": "이원주"
+    },
+    {
+     "year": "2025",
+     "date": "4/11",
+     "period": "7",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "이원주"
+    },
+    {
+     "year": "2025",
+     "date": "4/14",
+     "period": "1-4",
+     "title": "[실험실습] Immunoglobulin",
+     "prof": "성영관·서인철"
+    },
+    {
+     "year": "2025",
+     "date": "4/15",
+     "period": "2-3",
+     "title": "면역학 평가",
+     "prof": "성영관·서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/10",
+     "period": "2",
+     "title": "면역반응의 일반적 특성",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/10",
+     "period": "3-4",
+     "title": "면역세포 및 조직",
+     "prof": "박태인"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/10",
+     "period": "6-7",
+     "title": "백혈구의 조직내로 이동",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/11",
+     "period": "3-4",
+     "title": "자연면역",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/11",
+     "period": "6-7",
+     "title": "항원과 항체",
+     "prof": "김예리"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/12",
+     "period": "3-4",
+     "title": "MHC",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/12",
+     "period": "6-7",
+     "title": "TCR과 신호전달",
+     "prof": "최지웅"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/12",
+     "period": "8",
+     "title": "임파구의 분화와 항원 수용체 발현",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/13",
+     "period": "3-4",
+     "title": "T세포의 활성화 CD4+ & CD8+ T cells",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/13",
+     "period": "6",
+     "title": "B 세포의 활성화",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/13",
+     "period": "7",
+     "title": "체액성 면역반응",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/13",
+     "period": "8",
+     "title": "Immunity to Microbes",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/13",
+     "period": "9",
+     "title": "[토론실습] Infection & Immunology",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/16",
+     "period": "1-9",
+     "title": "설연휴",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/18",
+     "period": "1-9",
+     "title": "설연휴",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/19",
+     "period": "2",
+     "title": "Regional Immunity",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/19",
+     "period": "3-4",
+     "title": "Hypersensitivity",
+     "prof": "한승우"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/19",
+     "period": "6",
+     "title": "면역관용",
+     "prof": "남언정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/19",
+     "period": "7",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "남언정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/19",
+     "period": "8",
+     "title": "이식면역",
+     "prof": "김찬덕"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/20",
+     "period": "2-3",
+     "title": "면역결핍과 HIV",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/20",
+     "period": "4",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "황소윤"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/20",
+     "period": "6",
+     "title": "Allergy",
+     "prof": "이원주"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/20",
+     "period": "7",
+     "title": "[토론실습] 환자증례수업",
+     "prof": "이원주"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/20",
+     "period": "8",
+     "title": "암면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/23",
+     "period": "1-4",
+     "title": "[실험실습] ELISA → 학정동에 실습 공간 없어서 컴퓨터 활용 가상 실험으로 대체",
+     "prof": "서인철·이종걸·김예리·최지웅·성영관"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/23",
+     "period": "6-9",
+     "title": "[실험실습] Immunoglobulin → 학정동에 실습 공간 없어서 컴퓨터 활용 가상 실험으로 대체",
+     "prof": "서인철·이종걸·김예리·최지웅·성영관"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/24",
+     "period": "3-4",
+     "title": "면역학 평가",
+     "prof": "서인철·이종걸·김예리·최지웅·성영관"
+    }
+   ]
+  },
+  {
+   "name": "인체병리학",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "4/19",
+     "period": "1-2",
+     "title": "질병과 세포-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2023",
+     "date": "4/19",
+     "period": "3-4",
+     "title": "세포손상-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2023",
+     "date": "4/19",
+     "period": "6-7",
+     "title": "세포손상-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2023",
+     "date": "4/19",
+     "period": "8-9",
+     "title": "세포손상-실습-1",
+     "prof": "박지영·박태인·윤길숙·정지윤·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "4/20",
+     "period": "1-2",
+     "title": "질병과 세포-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2023",
+     "date": "4/20",
+     "period": "3-4",
+     "title": "세포손상-3",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2023",
+     "date": "4/20",
+     "period": "6-7",
+     "title": "세포손상-4",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2023",
+     "date": "4/20",
+     "period": "8-9",
+     "title": "세포손상-실습-2",
+     "prof": "박지영B·박태인·윤길숙·박지영·정지윤·서안나·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "4/21",
+     "period": "1-2",
+     "title": "염증과 수복-1",
+     "prof": "서안나"
+    },
+    {
+     "year": "2023",
+     "date": "4/21",
+     "period": "3-4",
+     "title": "염증과 수복-2",
+     "prof": "서안나"
+    },
+    {
+     "year": "2023",
+     "date": "4/21",
+     "period": "6-7",
+     "title": "염증과 수복-실습-1",
+     "prof": "서안나·박지영·박태인·윤길숙·정지윤·박지영B·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "4/24",
+     "period": "1-2",
+     "title": "유전병-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2023",
+     "date": "4/24",
+     "period": "3-4",
+     "title": "유전병-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2023",
+     "date": "4/24",
+     "period": "6-7",
+     "title": "염증과 수복-3",
+     "prof": "서안나"
+    },
+    {
+     "year": "2023",
+     "date": "4/24",
+     "period": "8-9",
+     "title": "염증과 수복-실습-2",
+     "prof": "서안나·박지영·박태인·윤길숙·정지윤·박지영B·김문식·"
+    },
+    {
+     "year": "2023",
+     "date": "4/25",
+     "period": "1-2",
+     "title": "면역질환-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2023",
+     "date": "4/25",
+     "period": "3-4",
+     "title": "체액 및 혈류역동장애-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2023",
+     "date": "4/25",
+     "period": "6-7",
+     "title": "체액 및 혈류역동장애-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2023",
+     "date": "4/25",
+     "period": "8-9",
+     "title": "체액 및 혈류역동장애-실습",
+     "prof": "윤길숙·박태인·박지영·정지윤. 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "4/26",
+     "period": "1-2",
+     "title": "종양-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2023",
+     "date": "4/26",
+     "period": "3-4",
+     "title": "종양-실습-1",
+     "prof": "박태인·윤길숙·박지영·정지윤·서안나·박지영B·김문식·"
+    },
+    {
+     "year": "2023",
+     "date": "4/26",
+     "period": "6-7",
+     "title": "종양-2",
+     "prof": "정지윤"
+    },
+    {
+     "year": "2023",
+     "date": "4/27",
+     "period": "1-2",
+     "title": "신생아질환",
+     "prof": "김문식"
+    },
+    {
+     "year": "2023",
+     "date": "4/27",
+     "period": "3-4",
+     "title": "종양-3",
+     "prof": "정지윤"
+    },
+    {
+     "year": "2023",
+     "date": "4/27",
+     "period": "6-7",
+     "title": "종양-실습-2",
+     "prof": "정지윤·배한익·박태인·박지영·윤길숙·서안나·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "5/1",
+     "period": "1-9",
+     "title": "행 운 제 , 체 육 대 회",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "5/8",
+     "period": "1-2",
+     "title": "환경과 영양질환",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2023",
+     "date": "5/8",
+     "period": "3-4",
+     "title": "종양-4",
+     "prof": "정지윤"
+    },
+    {
+     "year": "2023",
+     "date": "5/8",
+     "period": "6-7",
+     "title": "종양-5",
+     "prof": "정지윤"
+    },
+    {
+     "year": "2023",
+     "date": "5/8",
+     "period": "8-9",
+     "title": "종양-실습-3",
+     "prof": "정지윤·박태인·박지영·윤길숙·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "5/9",
+     "period": "1-2",
+     "title": "감염질환",
+     "prof": "박지영"
+    },
+    {
+     "year": "2023",
+     "date": "5/9",
+     "period": "3-4",
+     "title": "감염질환-실습-1",
+     "prof": "박지영·박태인·윤길숙·박지영B·정지윤·서안나·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "5/9",
+     "period": "6-9",
+     "title": "임상 증례 및 육안표본 증례 토의",
+     "prof": "김문식·박지영·박태인·윤길숙·정지윤·서안나·박지영B"
+    },
+    {
+     "year": "2023",
+     "date": "5/10",
+     "period": "3-4",
+     "title": "감염질환-실습-2",
+     "prof": "박지영·박태인·윤길숙·박지영B·정지윤·서안나·김문식"
+    },
+    {
+     "year": "2023",
+     "date": "5/10",
+     "period": "6-9",
+     "title": "현미경 증례 토의",
+     "prof": "김문식·박지영·박태인·윤길숙·정지윤·서안나·박지영B"
+    },
+    {
+     "year": "2024",
+     "date": "4/17",
+     "period": "1-2",
+     "title": "질병과 세포-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2024",
+     "date": "4/17",
+     "period": "3-4",
+     "title": "세포손상-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2024",
+     "date": "4/17",
+     "period": "6-7",
+     "title": "세포손상-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2024",
+     "date": "4/17",
+     "period": "8-9",
+     "title": "세포손상-실습-1",
+     "prof": "박지영·박태인·윤길숙·한만훈·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/18",
+     "period": "1-2",
+     "title": "질병과 세포-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2024",
+     "date": "4/18",
+     "period": "3-4",
+     "title": "세포손상-3",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2024",
+     "date": "4/18",
+     "period": "6-7",
+     "title": "세포손상-4",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2024",
+     "date": "4/18",
+     "period": "8-9",
+     "title": "세포손상-실습-2",
+     "prof": "박지영B·박태인·윤길숙·박지영·한만훈·서안나·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/19",
+     "period": "1-2",
+     "title": "염증과 수복-1",
+     "prof": "서안나"
+    },
+    {
+     "year": "2024",
+     "date": "4/19",
+     "period": "3-4",
+     "title": "염증과 수복-2",
+     "prof": "서안나"
+    },
+    {
+     "year": "2024",
+     "date": "4/19",
+     "period": "6-7",
+     "title": "염증과 수복-실습-1",
+     "prof": "서안나·박지영·박태인·윤길숙·한만훈·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/22",
+     "period": "1-2",
+     "title": "유전병-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2024",
+     "date": "4/22",
+     "period": "3-4",
+     "title": "유전병-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2024",
+     "date": "4/22",
+     "period": "6-7",
+     "title": "염증과 수복-3",
+     "prof": "서안나"
+    },
+    {
+     "year": "2024",
+     "date": "4/22",
+     "period": "8-9",
+     "title": "염증과 수복-실습-2",
+     "prof": "서안나·박지영·박태인·윤길숙·한만훈·박지영B·김문식·"
+    },
+    {
+     "year": "2024",
+     "date": "4/23",
+     "period": "1-2",
+     "title": "면역질환-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2024",
+     "date": "4/23",
+     "period": "3-4",
+     "title": "체액 및 혈류역동장애-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2024",
+     "date": "4/23",
+     "period": "6-7",
+     "title": "체액 및 혈류역동장애-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2024",
+     "date": "4/23",
+     "period": "8-9",
+     "title": "체액 및 혈류역동장애-실습",
+     "prof": "윤길숙·박태인·박지영·한만훈. 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/24",
+     "period": "1-2",
+     "title": "종양-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2024",
+     "date": "4/24",
+     "period": "3-4",
+     "title": "신생아질환",
+     "prof": "김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/24",
+     "period": "6-7",
+     "title": "종양-실습-1",
+     "prof": "박태인·윤길숙·박지영·한만훈·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/25",
+     "period": "1-2",
+     "title": "종양-2",
+     "prof": "김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/25",
+     "period": "3-4",
+     "title": "종양-3",
+     "prof": "김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/25",
+     "period": "6-7",
+     "title": "종양-실습-2",
+     "prof": "김문식·박태인·윤길숙·박지영·한만훈·서안나·박지영B"
+    },
+    {
+     "year": "2024",
+     "date": "4/29",
+     "period": "1-2",
+     "title": "환경과 영양질환",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2024",
+     "date": "4/29",
+     "period": "3-4",
+     "title": "종양-4",
+     "prof": "한만훈"
+    },
+    {
+     "year": "2024",
+     "date": "4/29",
+     "period": "6-7",
+     "title": "종양-5",
+     "prof": "한만훈"
+    },
+    {
+     "year": "2024",
+     "date": "4/29",
+     "period": "8-9",
+     "title": "종양-실습-3",
+     "prof": "한만훈·박태인·박지영·윤길숙·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/30",
+     "period": "1-2",
+     "title": "감염질환",
+     "prof": "박지영"
+    },
+    {
+     "year": "2024",
+     "date": "4/30",
+     "period": "3-4",
+     "title": "감염질환-실습-1",
+     "prof": "박지영·박태인·윤길숙·한만훈 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "4/30",
+     "period": "6-9",
+     "title": "임상 증례 및 육안표본 증례 토의",
+     "prof": "김문식·윤길숙·박태인·박지영·한만훈·서안나·박지영B"
+    },
+    {
+     "year": "2024",
+     "date": "5/1",
+     "period": "3-4",
+     "title": "감염질환-실습-2",
+     "prof": "박지영·박태인·윤길숙·한만훈 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2024",
+     "date": "5/1",
+     "period": "6-9",
+     "title": "현미경 증례 토의",
+     "prof": "김문식·윤길숙·박태인·박지영·한만훈·서안나·박지영B"
+    },
+    {
+     "year": "2024",
+     "date": "5/7",
+     "period": "1-9",
+     "title": "행 운 제, 체육대회",
+     "prof": ""
+    },
+    {
+     "year": "2025",
+     "date": "4/16",
+     "period": "1-2",
+     "title": "질병과 세포-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2025",
+     "date": "4/16",
+     "period": "3-4",
+     "title": "세포손상-1",
+     "prof": "박지영"
+    },
+    {
+     "year": "2025",
+     "date": "4/16",
+     "period": "6-7",
+     "title": "세포손상-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2025",
+     "date": "4/16",
+     "period": "8-9",
+     "title": "세포손상-실습-1",
+     "prof": "박지영·박태인·윤길숙·한만훈·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/17",
+     "period": "1-2",
+     "title": "질병과 세포-2",
+     "prof": "박지영"
+    },
+    {
+     "year": "2025",
+     "date": "4/17",
+     "period": "3-4",
+     "title": "세포손상-3",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2025",
+     "date": "4/17",
+     "period": "6-7",
+     "title": "세포손상-4",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2025",
+     "date": "4/17",
+     "period": "8-9",
+     "title": "세포손상-실습-2",
+     "prof": "박지영B·박태인·윤길숙·박지영·한만훈·서안나·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/18",
+     "period": "1-2",
+     "title": "염증과 수복-1",
+     "prof": "서안나"
+    },
+    {
+     "year": "2025",
+     "date": "4/18",
+     "period": "3-4",
+     "title": "염증과 수복-2",
+     "prof": "서안나"
+    },
+    {
+     "year": "2025",
+     "date": "4/18",
+     "period": "6-7",
+     "title": "염증과 수복-실습-1",
+     "prof": "서안나·박지영·박태인·윤길숙·한만훈·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/21",
+     "period": "1-2",
+     "title": "유전병-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2025",
+     "date": "4/21",
+     "period": "3-4",
+     "title": "유전병-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2025",
+     "date": "4/21",
+     "period": "6-7",
+     "title": "염증과 수복-3",
+     "prof": "서안나"
+    },
+    {
+     "year": "2025",
+     "date": "4/21",
+     "period": "8-9",
+     "title": "염증과 수복-실습-2",
+     "prof": "서안나·박지영·박태인·윤길숙·한만훈·박지영B·김문식·"
+    },
+    {
+     "year": "2025",
+     "date": "4/22",
+     "period": "1-2",
+     "title": "면역질환-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2025",
+     "date": "4/22",
+     "period": "3-4",
+     "title": "체액 및 혈류역동장애-1",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2025",
+     "date": "4/22",
+     "period": "6-7",
+     "title": "체액 및 혈류역동장애-2",
+     "prof": "윤길숙"
+    },
+    {
+     "year": "2025",
+     "date": "4/22",
+     "period": "8-9",
+     "title": "체액 및 혈류역동장애-실습",
+     "prof": "윤길숙·박태인·박지영·한만훈. 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/23",
+     "period": "1-2",
+     "title": "종양-1",
+     "prof": "박태인"
+    },
+    {
+     "year": "2025",
+     "date": "4/23",
+     "period": "3-4",
+     "title": "신생아질환",
+     "prof": "김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/23",
+     "period": "6-7",
+     "title": "종양-실습-1",
+     "prof": "박태인·윤길숙·박지영·한만훈·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/24",
+     "period": "1-2",
+     "title": "종양-2",
+     "prof": "김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/24",
+     "period": "3-4",
+     "title": "종양-3",
+     "prof": "김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/24",
+     "period": "6-7",
+     "title": "종양-실습-2",
+     "prof": "김문식·박태인·윤길숙·박지영·한만훈·서안나·박지영B"
+    },
+    {
+     "year": "2025",
+     "date": "4/28",
+     "period": "1-2",
+     "title": "환경과 영양질환",
+     "prof": "박지영 B"
+    },
+    {
+     "year": "2025",
+     "date": "4/28",
+     "period": "3-4",
+     "title": "종양-4",
+     "prof": "한만훈"
+    },
+    {
+     "year": "2025",
+     "date": "4/28",
+     "period": "6-7",
+     "title": "종양-5",
+     "prof": "한만훈"
+    },
+    {
+     "year": "2025",
+     "date": "4/28",
+     "period": "8-9",
+     "title": "종양-실습-3",
+     "prof": "한만훈·박태인·박지영·윤길숙·서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/29",
+     "period": "1-2",
+     "title": "감염질환",
+     "prof": "박지영"
+    },
+    {
+     "year": "2025",
+     "date": "4/29",
+     "period": "3-4",
+     "title": "감염질환-실습-1",
+     "prof": "박지영·박태인·윤길숙·한만훈 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/29",
+     "period": "6-9",
+     "title": "임상 증례 및 육안표본 증례 토의",
+     "prof": "김문식·윤길숙·박태인·박지영·한만훈·서안나·박지영B"
+    },
+    {
+     "year": "2025",
+     "date": "4/30",
+     "period": "3-4",
+     "title": "감염질환-실습-2",
+     "prof": "박지영·박태인·윤길숙·한만훈 서안나·박지영B·김문식"
+    },
+    {
+     "year": "2025",
+     "date": "4/30",
+     "period": "6-9",
+     "title": "현미경 증례 토의",
+     "prof": "김문식·윤길숙·박태인·박지영·한만훈·서안나·박지영B"
+    }
+   ]
+  },
+  {
+   "name": "인체병원체학",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "1",
+     "title": "세균의 분류",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "2",
+     "title": "세균의 구조",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "3",
+     "title": "세균의 대사와 증식",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "4",
+     "title": "세균 유전학",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "6",
+     "title": "세균 유전학",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "7",
+     "title": "멸균과 소독",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/15",
+     "period": "8",
+     "title": "항균제",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/16",
+     "period": "1",
+     "title": "항균제 내성",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/16",
+     "period": "2",
+     "title": "마이크로 바이옴",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/16",
+     "period": "3-4",
+     "title": "세균에 의한 발병기전",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/16",
+     "period": "6-7",
+     "title": "감염면역/백신",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/16",
+     "period": "8",
+     "title": "감염병의 검사실 진단",
+     "prof": "김유경"
+    },
+    {
+     "year": "2023",
+     "date": "5/17",
+     "period": "1",
+     "title": "포도알균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/17",
+     "period": "2",
+     "title": "사슬알균, 장알균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/17",
+     "period": "3",
+     "title": "바실루스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/17",
+     "period": "4",
+     "title": "실습안내",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/17",
+     "period": "6-9",
+     "title": "미생물학 실습: 미생물 염색법, 검체로부터 미생물의 분리 및 배양",
+     "prof": "이제철·김정민·신민상·김석호·이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/18",
+     "period": "1",
+     "title": "리스테리아, 코리네박테리아, 노카르디아",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/18",
+     "period": "2",
+     "title": "미코박테륨",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/18",
+     "period": "3",
+     "title": "나이세리아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/18",
+     "period": "4",
+     "title": "비브리오, 캄필로박터, 헬리코박터",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/18",
+     "period": "6-9",
+     "title": "미생물학 실습 :세균동정 및 항균제 감수성 검사",
+     "prof": "이제철·김정민·신민상·김석호·이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/19",
+     "period": "1-2",
+     "title": "장내세균과",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/19",
+     "period": "3-4",
+     "title": "미코플라스마, 리케차, 클라미디아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/19",
+     "period": "6-9",
+     "title": "미생물학 실습 :결과 발표 및 피드백",
+     "prof": "이제철·김정민·신민상·김석호·이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "1-2",
+     "title": "트레포네마, 보렐리아, 렙토스피라",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "3",
+     "title": "헤모필로스/ 보르데텔라",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "4",
+     "title": "클로스트리듐",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "6",
+     "title": "아포비형성 무산소균",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "7",
+     "title": "슈도모나스 및 관련세균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/22",
+     "period": "8",
+     "title": "프란시셀라 및 브르셀라, 레지오넬라",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/24",
+     "period": "2",
+     "title": "미생물학 Review/ Feedback 1",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/24",
+     "period": "3-4",
+     "title": "바이러스의 분류, 구조 및 증식",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/24",
+     "period": "6",
+     "title": "유전/ 항바이러스 (파지 포함)",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/25",
+     "period": "1-2",
+     "title": "바이러스에 의한 발병기전",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/25",
+     "period": "3",
+     "title": "유두종바이러스, 폴리오마바이 러스,아데노 바이러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/25",
+     "period": "4",
+     "title": "헤르페스바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/25",
+     "period": "6",
+     "title": "피코르나바이 러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/25",
+     "period": "7",
+     "title": "파라믹소바이 러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "1",
+     "title": "랍도바이러스, 필로바이러스, 보르나증바이 러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "2",
+     "title": "오소믹소바이 러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "3",
+     "title": "코로나",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "4",
+     "title": "노로, 레오바이러스",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "6",
+     "title": "폭스바이러스, 파르보바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/26",
+     "period": "7",
+     "title": "토가, 플라비, 분야, 아레나 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2023",
+     "date": "5/29",
+     "period": "1-9",
+     "title": "석 가 탄 신 일 대 체 공 휴 일",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "5/30",
+     "period": "1",
+     "title": "레트로바이 러스",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/30",
+     "period": "2",
+     "title": "프리온 질환",
+     "prof": "신민상"
+    },
+    {
+     "year": "2023",
+     "date": "5/30",
+     "period": "3-4",
+     "title": "간염바이러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2023",
+     "date": "5/30",
+     "period": "6",
+     "title": "진균의 분류 및 특성",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/30",
+     "period": "7",
+     "title": "진균감염의 특징",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/31",
+     "period": "2",
+     "title": "표재성진균증 및 피부진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/31",
+     "period": "3",
+     "title": "피하진균증/ 두형태진균에 의한 전신진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "5/31",
+     "period": "4",
+     "title": "기회감염진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "6/1",
+     "period": "6-7",
+     "title": "기생충학 총론",
+     "prof": "정동일"
+    },
+    {
+     "year": "2023",
+     "date": "6/2",
+     "period": "1-2",
+     "title": "내강 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2023",
+     "date": "6/2",
+     "period": "3-4",
+     "title": "선충류",
+     "prof": "정동일"
+    },
+    {
+     "year": "2023",
+     "date": "6/2",
+     "period": "6-7",
+     "title": "말라리아",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/2",
+     "period": "8",
+     "title": "미생물학 Review /Feedback 2",
+     "prof": "이제철"
+    },
+    {
+     "year": "2023",
+     "date": "6/5",
+     "period": "1",
+     "title": "말라리아",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/5",
+     "period": "2-3",
+     "title": "Trypanosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/5",
+     "period": "4",
+     "title": "Leishmaniasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/5",
+     "period": "6-7",
+     "title": "Leishmaniasis실/ 습노트작성 안내",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/6",
+     "period": "1-9",
+     "title": "현 충 일",
+     "prof": ""
+    },
+    {
+     "year": "2023",
+     "date": "6/7",
+     "period": "1-2",
+     "title": "조직 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2023",
+     "date": "6/7",
+     "period": "3-4",
+     "title": "흡충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/7",
+     "period": "6-9",
+     "title": "기생충학 실습",
+     "prof": "정동일·구윤경·홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/8",
+     "period": "1-2",
+     "title": "사상충증",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/8",
+     "period": "3-4",
+     "title": "조충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2023",
+     "date": "6/8",
+     "period": "6-7",
+     "title": "Schistosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/9",
+     "period": "1",
+     "title": "면역손상된 사람의 기생충 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2023",
+     "date": "6/9",
+     "period": "2-3",
+     "title": "Entomology",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/10",
+     "period": "2-3",
+     "title": "기생충학 평가",
+     "prof": "정동일·구윤경·홍연철"
+    },
+    {
+     "year": "2023",
+     "date": "6/10",
+     "period": "4",
+     "title": "기생충학 feedback",
+     "prof": "구윤경·홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "5/13",
+     "period": "1",
+     "title": "강좌 소개/의학 미생물학 소개",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/13",
+     "period": "2",
+     "title": "사람 마이크로바이옴",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/13",
+     "period": "3",
+     "title": "세균의 분류와 구조",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/13",
+     "period": "4",
+     "title": "세균의 대사와 증식",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/13",
+     "period": "6-7",
+     "title": "세균 유전학",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/14",
+     "period": "1-2",
+     "title": "세균에 의한 발병기전",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/14",
+     "period": "3",
+     "title": "멸균과 소독",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/14",
+     "period": "4",
+     "title": "실습안내",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/14",
+     "period": "6-9",
+     "title": "미생물학 실습: 미생물 염색법, 검체로부터 미생물의 분리 및 배양",
+     "prof": "이제철·김정민·김석호·이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/15",
+     "period": "1-9",
+     "title": "부처님 오신날",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "5/16",
+     "period": "1",
+     "title": "항균제",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/16",
+     "period": "2",
+     "title": "항균제 내성",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/16",
+     "period": "3",
+     "title": "감염병의 검사실 진단",
+     "prof": "김유경"
+    },
+    {
+     "year": "2024",
+     "date": "5/16",
+     "period": "4",
+     "title": "병원체에 대한 면역반응, 미생물에 대한 백신",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/16",
+     "period": "6-9",
+     "title": "미생물학 실습 :세균동정 및 항균제 감수성 검사",
+     "prof": "이제철·김정민·김석호·이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/17",
+     "period": "1",
+     "title": "포도알균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/17",
+     "period": "2",
+     "title": "사슬알균, 장알균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/17",
+     "period": "3",
+     "title": "바실루스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/17",
+     "period": "4",
+     "title": "리스테리아, 코리네박테륨, 노카르디아",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/17",
+     "period": "6-9",
+     "title": "미생물학 실습 :결과 발표 및 피드백",
+     "prof": "이제철·김정민·김석호·이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "1",
+     "title": "미코박테륨",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "2",
+     "title": "나이세리아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "3-4",
+     "title": "장내세균과",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "6",
+     "title": "슈도모나스 및 관련세균",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "7",
+     "title": "프란시셀라 및 브르셀라, 레지오넬라",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/21",
+     "period": "8",
+     "title": "미생물학 Review/ Feedback 1",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/22",
+     "period": "1",
+     "title": "비브리오, 캄필로박터, 헬리코박터",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/22",
+     "period": "2",
+     "title": "헤모필로스, 보르데텔라",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/22",
+     "period": "3",
+     "title": "클로스트리듐",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/22",
+     "period": "4",
+     "title": "아포비형성 무산소균",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/22",
+     "period": "6-7",
+     "title": "트레포네마, 보렐리아 및 렙토스피라",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/23",
+     "period": "1-2",
+     "title": "미코플라스마, 리케치아, 클라미디아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/23",
+     "period": "3",
+     "title": "바이러스의 분류, 아 구조 및 증식",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/23",
+     "period": "4",
+     "title": "바이러스 유전학, 항바이러스제, 박테리오파지",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/23",
+     "period": "6-7",
+     "title": "바이러스에 의한 발병기전",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/24",
+     "period": "1",
+     "title": "유두종바이러스, 폴리오마바이 러스, 아데노 바이러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/24",
+     "period": "2",
+     "title": "헤르페스바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/24",
+     "period": "3",
+     "title": "폭스바이러스, 파르보바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/24",
+     "period": "4",
+     "title": "피코르나바이 러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "1",
+     "title": "코로나",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "2",
+     "title": "노로, 레오바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "3",
+     "title": "파라믹소바이 러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "4",
+     "title": "오르소믹소바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "6",
+     "title": "랍도바이러스, 필로바이러스, 보르나증바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/27",
+     "period": "7",
+     "title": "미생물학 Review /Feedback 2",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/28",
+     "period": "1",
+     "title": "토가바이러스, 플라비바이러스, 분야바이러스, 아레나 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/28",
+     "period": "2",
+     "title": "레트로바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2024",
+     "date": "5/28",
+     "period": "3-4",
+     "title": "간염바이러스",
+     "prof": "김정민"
+    },
+    {
+     "year": "2024",
+     "date": "5/28",
+     "period": "6",
+     "title": "프리온 질환",
+     "prof": "김석호"
+    },
+    {
+     "year": "2024",
+     "date": "5/29",
+     "period": "1",
+     "title": "진균의 분류 및 특성. 진균감염의 특징",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/29",
+     "period": "2",
+     "title": "표재성진균증 및 피부진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/29",
+     "period": "3",
+     "title": "피하진균증/ 두형태진균에 의한 전신진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/29",
+     "period": "4",
+     "title": "기회감염진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/30",
+     "period": "6-7",
+     "title": "기생충학 총론",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "5/30",
+     "period": "8",
+     "title": "선충류 (1)",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "5/30",
+     "period": "9",
+     "title": "미생물학 Review /Feedback 3",
+     "prof": "이제철"
+    },
+    {
+     "year": "2024",
+     "date": "5/31",
+     "period": "1-2",
+     "title": "선충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "5/31",
+     "period": "3-4",
+     "title": "내강 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "5/31",
+     "period": "6-8",
+     "title": "말라리아",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/3",
+     "period": "1-2",
+     "title": "Trypanosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/3",
+     "period": "3-4",
+     "title": "Leishmaniasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/4",
+     "period": "1-2",
+     "title": "흡충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/4",
+     "period": "3-4",
+     "title": "조직 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/4",
+     "period": "6-9",
+     "title": "기생충학 실습",
+     "prof": "홍연철·구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/5",
+     "period": "1-2",
+     "title": "Schistosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/5",
+     "period": "3-4",
+     "title": "조충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/5",
+     "period": "6-7",
+     "title": "사상충증",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/6",
+     "period": "1-9",
+     "title": "현 충 일",
+     "prof": ""
+    },
+    {
+     "year": "2024",
+     "date": "6/7",
+     "period": "2",
+     "title": "면역손상된 사람의 기생충 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/7",
+     "period": "3-4",
+     "title": "Entomology",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2024",
+     "date": "6/8",
+     "period": "2-3",
+     "title": "기생충학 평가",
+     "prof": "홍연철·구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/8",
+     "period": "4",
+     "title": "기생충학 feedback",
+     "prof": "홍연철·구윤경"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "1",
+     "title": "시상하부, 뇌하수체 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "2",
+     "title": "갑상샘 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "3",
+     "title": "부신 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "4",
+     "title": "생식 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "6",
+     "title": "내분비이자 약리학 및 포도당 항상성",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/2",
+     "period": "7",
+     "title": "뼈무기질 항상성 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "5/12",
+     "period": "1",
+     "title": "강좌 소개/의학 미생물학 소개",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/12",
+     "period": "2",
+     "title": "사람 마이크로바이옴",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/12",
+     "period": "3",
+     "title": "세균의 분류와 구조",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/12",
+     "period": "4",
+     "title": "세균의 대사와 증식",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/13",
+     "period": "1-2",
+     "title": "세균 유전학",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/13",
+     "period": "3",
+     "title": "멸균과 소독",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/13",
+     "period": "4",
+     "title": "실습안내",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/13",
+     "period": "6-9",
+     "title": "미생물학 실습: 미생물 염색법, 검체로부터 미생물의 분리 및 배양",
+     "prof": "이제철·신민상·김석호·이충용·신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/14",
+     "period": "1-2",
+     "title": "세균에 의한 발병기전",
+     "prof": "신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/14",
+     "period": "3",
+     "title": "항균제",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/14",
+     "period": "4",
+     "title": "항균제 내성",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/14",
+     "period": "6-9",
+     "title": "미생물학 실습 :세균동정 및 항균제 감수성 검사",
+     "prof": "이제철·신민상·김석호·이충용·신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/15",
+     "period": "1",
+     "title": "병원체에 대한 면역반응",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/15",
+     "period": "2",
+     "title": "미생물에 대한 백신",
+     "prof": "신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/15",
+     "period": "3",
+     "title": "감염병의 검사실 진단",
+     "prof": "김유경"
+    },
+    {
+     "year": "2025",
+     "date": "5/15",
+     "period": "4",
+     "title": "포도알균",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/15",
+     "period": "6-9",
+     "title": "미생물학 실습 :결과 발표 및 피드백",
+     "prof": "이제철·신민상·김석호·이충용·신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/16",
+     "period": "1",
+     "title": "사슬알균, 장알균",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/16",
+     "period": "2",
+     "title": "바실루스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/16",
+     "period": "3",
+     "title": "리스테리아, 코리네박테륨, 노카르디아",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/16",
+     "period": "4",
+     "title": "미코박테륨",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/19",
+     "period": "1",
+     "title": "나이세리아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/19",
+     "period": "2-3",
+     "title": "장내세균과",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/19",
+     "period": "4",
+     "title": "비브리오, 캄필로박터, 헬리코박터",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/19",
+     "period": "6",
+     "title": "슈도모나스 및 관련세균",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/19",
+     "period": "7",
+     "title": "미생물학 Review /Feedback 1",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/20",
+     "period": "1",
+     "title": "헤모필로스, 보르데텔라",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/20",
+     "period": "2",
+     "title": "프란시셀라 및 브르셀라, 레지오넬라",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/20",
+     "period": "3-4",
+     "title": "트레포네마, 보렐리아 및 렙토스피라",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/21",
+     "period": "1",
+     "title": "클로스트리듐",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/21",
+     "period": "2",
+     "title": "아포비형성 무산소균",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025",
+     "date": "5/21",
+     "period": "3-4",
+     "title": "미코플라스마, 리케치아, 클라미디아",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/22",
+     "period": "1",
+     "title": "진균의 분류 및 특성. 진균감염의 특징",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/22",
+     "period": "2",
+     "title": "표재성진균증 및 피부진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/22",
+     "period": "3",
+     "title": "피하진균증/ 두형태진균에 의한 전신진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/22",
+     "period": "4",
+     "title": "기회감염진균증",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/23",
+     "period": "1",
+     "title": "바이러스의 분류, 구조 및 증식",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/23",
+     "period": "2",
+     "title": "바이러스 유전학, 항바이러스제, 박테리오파지",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/23",
+     "period": "3-4",
+     "title": "바이러스에 의한 발병기전",
+     "prof": "신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "1",
+     "title": "헤르페스바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "2",
+     "title": "유두종바이러스, 폴리오마바이 러스, 아데노 바이러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "3",
+     "title": "폭스바이러스, 파르보바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "4",
+     "title": "피코르나바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "6",
+     "title": "코로나",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/26",
+     "period": "7",
+     "title": "미생물학 Review /Feedback 2",
+     "prof": "이제철"
+    },
+    {
+     "year": "2025",
+     "date": "5/27",
+     "period": "1-2",
+     "title": "간염바이러스",
+     "prof": "신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/27",
+     "period": "3",
+     "title": "노로, 레오바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/27",
+     "period": "4",
+     "title": "파라믹소바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/27",
+     "period": "6",
+     "title": "오르소믹소바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/28",
+     "period": "1",
+     "title": "랍도바이러스, 필로바이러스, 보르나증바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/28",
+     "period": "2",
+     "title": "토가바이러스, 플라비바이러스, 분야바이러스, 아레나 바이러스",
+     "prof": "신임교수(김성준)"
+    },
+    {
+     "year": "2025",
+     "date": "5/28",
+     "period": "3",
+     "title": "레트로바이 러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "5/28",
+     "period": "4",
+     "title": "프리온 질환",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025",
+     "date": "5/30",
+     "period": "1-2",
+     "title": "기생충학 총론",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "5/30",
+     "period": "3-4",
+     "title": "선충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "5/30",
+     "period": "6",
+     "title": "선충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "5/30",
+     "period": "7-8",
+     "title": "내강 기생 원충류 감염",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "5/30",
+     "period": "9",
+     "title": "미생물학 Review /Feedback 3",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025",
+     "date": "6/2",
+     "period": "1-3",
+     "title": "말라리아",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/2",
+     "period": "4",
+     "title": "Trypanosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/2",
+     "period": "6",
+     "title": "Trypanosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/3",
+     "period": "1-2",
+     "title": "Leishmaniasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/3",
+     "period": "3-4",
+     "title": "조직 기생 원충류 감염",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/3",
+     "period": "6-9",
+     "title": "기생충학 실습",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/4",
+     "period": "1-2",
+     "title": "Schistosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/4",
+     "period": "3-4",
+     "title": "조충류 감염",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/4",
+     "period": "6-7",
+     "title": "사상충증",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/5",
+     "period": "1-2",
+     "title": "흡충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/5",
+     "period": "3-4",
+     "title": "Entomology",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/7",
+     "period": "2-3",
+     "title": "기생충학 평가",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025",
+     "date": "6/7",
+     "period": "4",
+     "title": "기생충학 feedback",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "2",
+     "title": "강좌소개/의학 미생물학소개",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "3",
+     "title": "사람 마이크로바이옴",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "4",
+     "title": "세균의 분류와 구조",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "6",
+     "title": "세균의 대사와 증식",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "7",
+     "title": "멸균과 소독",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/25",
+     "period": "8-9",
+     "title": "미생물학실습",
+     "prof": "김정민·신민상·김석호·이충용·김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/26",
+     "period": "2-3",
+     "title": "세균유전학",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/26",
+     "period": "4",
+     "title": "실습개요",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/26",
+     "period": "6",
+     "title": "항균제",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/26",
+     "period": "7",
+     "title": "항균제내성",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/26",
+     "period": "8-9",
+     "title": "미생물학실습",
+     "prof": "김정민·신민상·김석호·이충용·김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/27",
+     "period": "2",
+     "title": "감염병의 검사실 진단",
+     "prof": "김유경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/27",
+     "period": "3-4",
+     "title": "세균에 의한 발병기전",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/27",
+     "period": "6",
+     "title": "병원체에 대한 면역반응",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/27",
+     "period": "7",
+     "title": "미생물에 대한 백신",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "2/27",
+     "period": "8-9",
+     "title": "미생물학실습",
+     "prof": "김정민·신민상·김석호·이충용·김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/2",
+     "period": "1-9",
+     "title": "3.1 대체 휴일",
+     "prof": ""
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "2",
+     "title": "포도알균",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "3",
+     "title": "사슬알균, 장알균",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "4",
+     "title": "리스테리아, 코리네박테리움, 노카르디아",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "6",
+     "title": "바실루스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "7",
+     "title": "미코박테리움",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/3",
+     "period": "8",
+     "title": "나이세리아",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/4",
+     "period": "2-3",
+     "title": "장내세균과",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/4",
+     "period": "4",
+     "title": "비브리오, 캄필로박터, 헬리코박터",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/4",
+     "period": "6",
+     "title": "슈도모나스 및 관련세균",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/4",
+     "period": "7-8",
+     "title": "트레포네마, 보렐리아, 렙토스피라",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "2",
+     "title": "헤모필루스, 보르데텔라",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "3",
+     "title": "프란시셀라 및 브르셀라, 레지오넬라",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "4",
+     "title": "미코플라스마, 리케치아",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "6",
+     "title": "클라미디아",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "7",
+     "title": "클로스트리디움",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/5",
+     "period": "8",
+     "title": "아포비형성무산 소균",
+     "prof": "신민상"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/6",
+     "period": "3-4",
+     "title": "미생물학평가 (1차)",
+     "prof": "김정민·신민상·김석호·이충용·김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/9",
+     "period": "3",
+     "title": "미생물학리뷰 (1차)",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/9",
+     "period": "4",
+     "title": "진균의 분류 및 특성, 진균감염의 특징",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/9",
+     "period": "6",
+     "title": "표재성진균증 및 피부진균증",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/9",
+     "period": "7",
+     "title": "피하진균증/ 두형태진균에 의한 전신진균증",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/9",
+     "period": "8",
+     "title": "기회감염 진균증",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/10",
+     "period": "2",
+     "title": "바이러스 분류, 구조 및 증식",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/10",
+     "period": "3-4",
+     "title": "바이러스에 의한 발병기전",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/10",
+     "period": "6",
+     "title": "바이러스유전학, 항바이러스제, 박테리오파지",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/10",
+     "period": "7",
+     "title": "헤르페스바이러 스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/11",
+     "period": "2",
+     "title": "유두종바이러스, 폴리오마바이러 스, 아데노바이러스",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/11",
+     "period": "3",
+     "title": "폭스바이러스, 파르보바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/11",
+     "period": "4",
+     "title": "피코르나 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/11",
+     "period": "6",
+     "title": "코로나 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/11",
+     "period": "7",
+     "title": "노로, 레오 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/12",
+     "period": "2",
+     "title": "파라믹소 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/12",
+     "period": "3",
+     "title": "오르소믹소 바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/12",
+     "period": "4",
+     "title": "랍도바이러스, 필로바이러스,보 르나바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/12",
+     "period": "6",
+     "title": "토가바이러스, 플라비바이러스, 분야바이러스, 아레나바이러스",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/12",
+     "period": "7",
+     "title": "레트로바이러스",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/13",
+     "period": "2-3",
+     "title": "간염바이러스",
+     "prof": "김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/13",
+     "period": "4",
+     "title": "프리온질환",
+     "prof": "김석호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/16",
+     "period": "2-3",
+     "title": "미생물학평가 (2차)",
+     "prof": "김정민·신민상·김석호·이충용·김성준"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/16",
+     "period": "6-7",
+     "title": "기생충학 총론",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/16",
+     "period": "8-9",
+     "title": "선충류",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/17",
+     "period": "1-3",
+     "title": "말라리아",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/17",
+     "period": "4",
+     "title": "Trypanoso miasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/17",
+     "period": "6",
+     "title": "Trypanoso miasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/17",
+     "period": "7-8",
+     "title": "Leishmaniasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/18",
+     "period": "1-2",
+     "title": "내강 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/18",
+     "period": "3-4",
+     "title": "조직 기생 원충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/18",
+     "period": "6-8",
+     "title": "흡충류",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/18",
+     "period": "9",
+     "title": "미생물학리뷰 (2차)",
+     "prof": "이충용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/19",
+     "period": "1-2",
+     "title": "사상충증",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/19",
+     "period": "3-4",
+     "title": "조충류 감염",
+     "prof": "구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/19",
+     "period": "6-9",
+     "title": "기생충학 실습",
+     "prof": "홍연철·구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/20",
+     "period": "1-2",
+     "title": "Schistosomiasis",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/20",
+     "period": "3-4",
+     "title": "Entomology",
+     "prof": "홍연철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/21",
+     "period": "2-3",
+     "title": "기생충학 평가",
+     "prof": "홍연철·구윤경"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/21",
+     "period": "4",
+     "title": "기생충학 feedback",
+     "prof": "홍연철·구윤경"
+    }
+   ]
+  },
+  {
+   "name": "약리학 총론",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "6/12",
+     "period": "1",
+     "title": "약물-수용체 상호작용",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/12",
+     "period": "2",
+     "title": "약력학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2023",
+     "date": "6/12",
+     "period": "3",
+     "title": "약동학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2023",
+     "date": "6/12",
+     "period": "4",
+     "title": "약물대사",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2023",
+     "date": "6/13",
+     "period": "1",
+     "title": "약물독성",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2023",
+     "date": "6/13",
+     "period": "2",
+     "title": "약리유전체학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2023",
+     "date": "6/13",
+     "period": "3",
+     "title": "신경약리학 기초1",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/13",
+     "period": "4",
+     "title": "신경약리학 기초2",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/13",
+     "period": "6-9",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/14",
+     "period": "1",
+     "title": "콜린성약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/14",
+     "period": "2",
+     "title": "아드레날린성 신경 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/14",
+     "period": "3",
+     "title": "국소마취 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/14",
+     "period": "4",
+     "title": "가바성 및 글루타메이터성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/14",
+     "period": "6-9",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/15",
+     "period": "1",
+     "title": "도파민 신경전달 약리학1 (항정신병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/15",
+     "period": "2",
+     "title": "도파민 신경전달 약리학2 (항파킨손병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/15",
+     "period": "3",
+     "title": "세로토닌성 및 중추아민성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2023",
+     "date": "6/15",
+     "period": "6-9",
+     "title": "약리학실습(신관3층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/16",
+     "period": "1",
+     "title": "중추신경계의 비정상적 전기적 신경전달 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/16",
+     "period": "2",
+     "title": "전신마취제 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/16",
+     "period": "3",
+     "title": "진통 약리학",
+     "prof": "장일성"
+    },
+    {
+     "year": "2023",
+     "date": "6/16",
+     "period": "6-9",
+     "title": "약리학실습(신관3층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/19",
+     "period": "1",
+     "title": "통합심혈관계 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/19",
+     "period": "2",
+     "title": "심근 수축 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/19",
+     "period": "3",
+     "title": "심장박동 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/19",
+     "period": "6-8",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/20",
+     "period": "1",
+     "title": "용적조절의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/20",
+     "period": "2",
+     "title": "혈관긴장도의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/20",
+     "period": "3",
+     "title": "콜레스테롤과 지질단백질 대사 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/20",
+     "period": "4",
+     "title": "지혈과 혈전증 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/22",
+     "period": "1",
+     "title": "시상하부, 뇌하수체 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/22",
+     "period": "2",
+     "title": "갑상샘 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/22",
+     "period": "3",
+     "title": "부신 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "6/22",
+     "period": "4",
+     "title": "생식 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/22",
+     "period": "6-9",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/23",
+     "period": "1",
+     "title": "내분비이자 약리학 및 포도당 항상성",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/23",
+     "period": "2",
+     "title": "뼈무기질 항상성 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/23",
+     "period": "3",
+     "title": "항미생물 및 항암약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/23",
+     "period": "4",
+     "title": "세균감염 약리학: DNA 복제, 전사 번역 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/23",
+     "period": "6-9",
+     "title": "약리학실습(신관3층 혹은 4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/26",
+     "period": "1",
+     "title": "세균과 항산균 감염 약리학: 세포벽 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/26",
+     "period": "2",
+     "title": "진균감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/26",
+     "period": "3",
+     "title": "기생충감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/26",
+     "period": "4",
+     "title": "항암약리학: 유전체 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/26",
+     "period": "6-9",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/27",
+     "period": "1",
+     "title": "항암약리학: 신호전달",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/27",
+     "period": "2",
+     "title": "병용화학요법",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/27",
+     "period": "3",
+     "title": "에이코사노이드 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/27",
+     "period": "4",
+     "title": "히스타민, 면역조절 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/27",
+     "period": "6-9",
+     "title": "약리학실습(신관4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2023",
+     "date": "6/28",
+     "period": "1",
+     "title": "면역억제 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2023",
+     "date": "6/28",
+     "period": "2",
+     "title": "신약개발과 약리학",
+     "prof": "임정옥"
+    },
+    {
+     "year": "2023",
+     "date": "6/28",
+     "period": "3",
+     "title": "단백질 치료법 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2023",
+     "date": "6/28",
+     "period": "4",
+     "title": "약물전달방식과 약리학",
+     "prof": "임정옥"
+    },
+    {
+     "year": "2024",
+     "date": "6/10",
+     "period": "1",
+     "title": "약물-수용체 상호작용",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/10",
+     "period": "2",
+     "title": "약력학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2024",
+     "date": "6/10",
+     "period": "3",
+     "title": "약동학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2024",
+     "date": "6/10",
+     "period": "4",
+     "title": "약물대사",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2024",
+     "date": "6/11",
+     "period": "1",
+     "title": "약물독성",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2024",
+     "date": "6/11",
+     "period": "2",
+     "title": "약리유전체학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2024",
+     "date": "6/11",
+     "period": "3",
+     "title": "신경약리학 기초1",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/11",
+     "period": "4",
+     "title": "신경약리학 기초2",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/11",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/12",
+     "period": "1",
+     "title": "콜린성약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/12",
+     "period": "2",
+     "title": "아드레날린성 신경 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/12",
+     "period": "3",
+     "title": "국소마취 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/12",
+     "period": "4",
+     "title": "가바성 및 글루타메이터성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/12",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/13",
+     "period": "1",
+     "title": "도파민 신경전달 약리학1 (항정신병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/13",
+     "period": "2",
+     "title": "도파민 신경전달 약리학2 (항파킨손병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/13",
+     "period": "3",
+     "title": "세로토닌성 및 중추아민성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2024",
+     "date": "6/13",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/14",
+     "period": "1",
+     "title": "중추신경계의 비정상적 전기적 신경전달 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/14",
+     "period": "2",
+     "title": "전신마취제 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/14",
+     "period": "3",
+     "title": "진통 약리학",
+     "prof": "장일성"
+    },
+    {
+     "year": "2024",
+     "date": "6/14",
+     "period": "4",
+     "title": "남용약물 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/14",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/17",
+     "period": "1",
+     "title": "통합심혈관계 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/17",
+     "period": "2",
+     "title": "심근 수축 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/17",
+     "period": "3",
+     "title": "심장박동 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/17",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/18",
+     "period": "1",
+     "title": "용적조절의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/18",
+     "period": "2",
+     "title": "혈관긴장도의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/18",
+     "period": "3",
+     "title": "콜레스테롤과 지질단백질 대사 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2024",
+     "date": "6/18",
+     "period": "4",
+     "title": "지혈과 혈전증 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/21",
+     "period": "1",
+     "title": "항미생물 및 항암약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/21",
+     "period": "2",
+     "title": "세균감염 약리학: DNA 복제, 전사 번역 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/21",
+     "period": "3",
+     "title": "세균과 항산균 감염 약리학: 세포벽 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/21",
+     "period": "4",
+     "title": "진균감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/21",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/24",
+     "period": "1",
+     "title": "바이러스감염 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/24",
+     "period": "2",
+     "title": "항암약리학: 유전체 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/24",
+     "period": "3",
+     "title": "항암약리학: 신호전달",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/24",
+     "period": "4",
+     "title": "병용화학요법",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/24",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/25",
+     "period": "1",
+     "title": "에이코사노이드 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/25",
+     "period": "2",
+     "title": "면역억제 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2024",
+     "date": "6/25",
+     "period": "3",
+     "title": "히스타민, 면역조절 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/25",
+     "period": "4",
+     "title": "기생충감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/25",
+     "period": "6-9",
+     "title": "약리학실습 (신관3,4층기능학실습실)",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/26",
+     "period": "1",
+     "title": "소화궤양,천식 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "6/26",
+     "period": "2",
+     "title": "신약개발과 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2024",
+     "date": "6/26",
+     "period": "3",
+     "title": "단백질 치료법 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/9",
+     "period": "1",
+     "title": "약물독성",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/9",
+     "period": "2",
+     "title": "약물-수용체 상호작용",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025",
+     "date": "6/9",
+     "period": "3",
+     "title": "약력학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025",
+     "date": "6/9",
+     "period": "4",
+     "title": "약동학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025",
+     "date": "6/10",
+     "period": "1",
+     "title": "약물대사",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025",
+     "date": "6/10",
+     "period": "2",
+     "title": "약리유전체학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025",
+     "date": "6/10",
+     "period": "3",
+     "title": "신경약리학 기초1",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/10",
+     "period": "4",
+     "title": "신경약리학 기초2",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/10",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)1-1",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/11",
+     "period": "1",
+     "title": "콜린성약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/11",
+     "period": "2",
+     "title": "아드레날린성 신경 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/11",
+     "period": "3",
+     "title": "국소마취 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2025",
+     "date": "6/11",
+     "period": "4",
+     "title": "가바성 및 글루타메이터성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/11",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)1-2",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/12",
+     "period": "1",
+     "title": "도파민 신경전달 약리학1 (항정신병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/12",
+     "period": "2",
+     "title": "도파민 신경전달 약리학2 (항파킨손병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/12",
+     "period": "3",
+     "title": "세로토닌성 및 중추아민성 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/12",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)1-3",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/13",
+     "period": "1",
+     "title": "중추신경계의 비정상적 전기적 신경전달 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/13",
+     "period": "2",
+     "title": "전신마취제 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/13",
+     "period": "3",
+     "title": "진통 약리학",
+     "prof": "장일성"
+    },
+    {
+     "year": "2025",
+     "date": "6/13",
+     "period": "4",
+     "title": "남용약물 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025",
+     "date": "6/13",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)1-4",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/16",
+     "period": "1",
+     "title": "통합심혈관계 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/16",
+     "period": "2",
+     "title": "심근 수축 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/16",
+     "period": "3",
+     "title": "심장박동 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/16",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)2-1",
+     "prof": "하정희·김인겸·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/17",
+     "period": "1",
+     "title": "용적조절의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/17",
+     "period": "2",
+     "title": "혈관긴장도의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/17",
+     "period": "3",
+     "title": "콜레스테롤과 지질단백질 대사 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/17",
+     "period": "4",
+     "title": "지혈과 혈전증 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "1",
+     "title": "시상하부, 뇌하수체 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "2",
+     "title": "갑상샘 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "3",
+     "title": "부신 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "4",
+     "title": "생식 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "6",
+     "title": "내분비이자 약리학 및 포도당 항상성",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "6/19",
+     "period": "7",
+     "title": "뼈무기질 항상성 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/20",
+     "period": "1",
+     "title": "항미생물 및 항암약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/20",
+     "period": "2",
+     "title": "세균감염 약리학: DNA 복제, 전사 번역 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/20",
+     "period": "3",
+     "title": "세균과 항산균 감염 약리학: 세포벽 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/20",
+     "period": "4",
+     "title": "진균감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/20",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)2-2",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/23",
+     "period": "1",
+     "title": "기생충감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/23",
+     "period": "2",
+     "title": "바이러스감염 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/23",
+     "period": "3",
+     "title": "항암약리학: 유전체 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/23",
+     "period": "4",
+     "title": "항암약리학: 신호전달",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/23",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)2-3",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/24",
+     "period": "1",
+     "title": "병용화학요법",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/24",
+     "period": "2",
+     "title": "에이코사노이드 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/24",
+     "period": "3",
+     "title": "면역억제 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025",
+     "date": "6/24",
+     "period": "4",
+     "title": "히스타민, 면역조절 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/24",
+     "period": "6-9",
+     "title": "약리학실습(신관3,4층기능학실습실)2-4",
+     "prof": "하정희·석경호·김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/25",
+     "period": "1",
+     "title": "소화궤양,천식 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/25",
+     "period": "2",
+     "title": "신약개발과 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025",
+     "date": "6/25",
+     "period": "3",
+     "title": "단백질 치료법 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "1",
+     "title": "약물독성",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "2",
+     "title": "약물-수용체 상호작용",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "3",
+     "title": "약력학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "4",
+     "title": "약동학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "6",
+     "title": "약물대사",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/23",
+     "period": "7",
+     "title": "약리유전체학",
+     "prof": "성숙진"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "1",
+     "title": "신경약리학 기초1",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "2",
+     "title": "신경약리학 기초2",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "3",
+     "title": "콜린성 약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "4",
+     "title": "아드레날린성 신경약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "6",
+     "title": "국소마취 약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/24",
+     "period": "7",
+     "title": "가바성 및 글루타메이터성 신경전달약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "1",
+     "title": "도파민신경전달 약리학1 (항정신병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "2",
+     "title": "도파민신경전달 약리학2 (항파킨손병약물)",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "3",
+     "title": "세로토닌성 및 중추아민성신경 전달약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "4",
+     "title": "중추신경계의 비정상적전기적 신경전달약리학",
+     "prof": "이만기"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "6",
+     "title": "전신마취제 약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "7",
+     "title": "진통약리학",
+     "prof": "장일성"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/25",
+     "period": "8",
+     "title": "남용약물 약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "1",
+     "title": "통합심약혈관 계약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "2",
+     "title": "심근수축 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "3",
+     "title": "심장박동 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "4",
+     "title": "용적조절의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "6",
+     "title": "혈관긴장도의 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "7",
+     "title": "콜레스테롤과 지질단백질 대사약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/26",
+     "period": "8",
+     "title": "지혈과혈전증 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "1",
+     "title": "시상하부 뇌하수체 약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "2",
+     "title": "갑상샘 약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "3",
+     "title": "부신약리학",
+     "prof": "이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "4",
+     "title": "생식약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "6",
+     "title": "내분비이자 약리학 및 포도당항상성",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/30",
+     "period": "7",
+     "title": "뼤무기질 항상성약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/31",
+     "period": "1",
+     "title": "항미생물 및 항암약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/31",
+     "period": "2",
+     "title": "세균감염약리학 :DNA복제전사 번역약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/31",
+     "period": "3",
+     "title": "세균항산균감역 약리학:세포벽 합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/31",
+     "period": "4",
+     "title": "바이러스감염 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "3/31",
+     "period": "6-9",
+     "title": "약리학실습(온라인동영상수업)-1",
+     "prof": "석경호·김상현·이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/1",
+     "period": "1",
+     "title": "진균감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/1",
+     "period": "2",
+     "title": "기생충감염 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/1",
+     "period": "3",
+     "title": "항암약리학: 유전체합성",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/1",
+     "period": "4",
+     "title": "항암약리학: 신호전달",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/1",
+     "period": "6-9",
+     "title": "약리학실습(온라인동영상수업)-2",
+     "prof": "석경호·김상현·이화림"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "1",
+     "title": "병용화학용법",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "2",
+     "title": "에이코사노이드 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "3",
+     "title": "드 히스타민면역 조절약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "4",
+     "title": "면역억제 약리학",
+     "prof": "석경호"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "6",
+     "title": "소화궤양천식 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "7",
+     "title": "신약개발과 약리학",
+     "prof": "김상현"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/2",
+     "period": "8",
+     "title": "단백질치료법 약리학",
+     "prof": "김인겸"
+    }
+   ]
+  },
+  {
+   "name": "기초의학종합 및 평가",
+   "group": "본과 1학년 1학기",
+   "lectures": [
+    {
+     "year": "2023",
+     "date": "6/30",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (소개 및 강의) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "이경민"
+    },
+    {
+     "year": "2023",
+     "date": "6/30",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "이경민"
+    },
+    {
+     "year": "2023",
+     "date": "7/3",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "7/3",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2023",
+     "date": "7/4",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2023",
+     "date": "7/4",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2023",
+     "date": "7/5",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "7/5",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2023",
+     "date": "7/6",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 미생물학",
+     "prof": "김정민·신민상"
+    },
+    {
+     "year": "2023",
+     "date": "7/6",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2023",
+     "date": "7/7",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (피드백)",
+     "prof": "이경민·홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "6/28",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (소개 및 강의) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "6/28",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2024",
+     "date": "7/1",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (소개 및 강의) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "7/1",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "신임교수"
+    },
+    {
+     "year": "2024",
+     "date": "7/2",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2024",
+     "date": "7/2",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2024",
+     "date": "7/3",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "7/3",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 약리학",
+     "prof": "하정희"
+    },
+    {
+     "year": "2024",
+     "date": "7/4",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 미생물학",
+     "prof": "김정민·이충용"
+    },
+    {
+     "year": "2024",
+     "date": "7/4",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2024",
+     "date": "7/5",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (피드백)",
+     "prof": "홍장원·서인철"
+    },
+    {
+     "year": "2025",
+     "date": "6/27",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (소개 및 강의) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "6/27",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025",
+     "date": "6/30",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (소개 및 강의) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "6/30",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 인체해부학, 인체조직학, 신경해부학",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025",
+     "date": "7/1",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2025",
+     "date": "7/1",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2025",
+     "date": "7/2",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의) 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "7/2",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (실습) 약리학",
+     "prof": "김인겸"
+    },
+    {
+     "year": "2025",
+     "date": "7/3",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 미생물학",
+     "prof": "김정민·이충용"
+    },
+    {
+     "year": "2025",
+     "date": "7/3",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (강의 및 실습) 면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025",
+     "date": "7/4",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (피드백)",
+     "prof": "홍장원·서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/6",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/6",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 인체생리학",
+     "prof": "홍장원"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/7",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 인체해부학",
+     "prof": "남용석"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/7",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 인체조직학, 신경해부학",
+     "prof": "이경민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/8",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 생화학",
+     "prof": "최제용"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/8",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 약리학",
+     "prof": "미정"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/9",
+     "period": "1-4",
+     "title": "기초의학종합 및 평가 미생물학",
+     "prof": "김정민"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/9",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 면역학",
+     "prof": "서인철"
+    },
+    {
+     "year": "2025 계절",
+     "date": "4/10",
+     "period": "6-8",
+     "title": "기초의학종합 및 평가 (피드백)",
+     "prof": "홍장원·서인철"
+    }
+   ]
+  },
+  {
    "name": "진단의 기본",
    "lectures": [
     {
