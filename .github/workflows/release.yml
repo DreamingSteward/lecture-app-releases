@@ -92,6 +92,9 @@ jobs:
           mkdir -p /tmp/win && unzip -q /tmp/dl/LectureApp_Windows.zip -d /tmp/win
           W=$(dirname "$(find /tmp/win -name install.ps1 | head -1)")
           mkdir -p /tmp/pay && cp -a "$W/app" "$W/install.ps1" "$W/uninstall.ps1" "$W/uninstall.ico" /tmp/pay/
+          # 파이썬이 없는 컴퓨터용: 공식 설치 파일을 같이 넣음 (동의 전에 인터넷으로 아무것도 받지 않게 · 창 없이 /quiet 설치)
+          curl -fsSL -o /tmp/pay/python-installer.exe https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
+          ls -la /tmp/pay/python-installer.exe
           makensis -V2 -INPUTCHARSET UTF8 -DVER="$VER" -DPAY=/tmp/pay -DOUT=/tmp/LectureApp_Windows_Setup.exe installer/installer.nsi
           ls -la /tmp/LectureApp_Windows_Setup.exe
           gh release upload "v$VER" /tmp/LectureApp_Windows_Setup.exe --clobber
