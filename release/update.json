@@ -1,10 +1,10 @@
 {
- "version": "2026.11.07-0126",
+ "version": "2026.11.07-2019",
  "file": "update.tgz",
- "sha256": "3bae43ce02d3a2989fa92eaa169a7d283b2afe743e3bfe5552412f9df5daf7ef",
- "size": 1976346,
+ "sha256": "7753bbc4e83a056bfad4b9c4c4c770e0b7309f1f022f74a294a5256e79cd9af1",
+ "size": 4025515,
  "full": false,
  "notes": [
-  "현황 표: 폰·아이패드 세로에서도 강의 이름 칸이 표 맨 왼쪽에 붙게"
+  "윈도우 글꼴 Pretendard · 같은 추가자료 파일은 한 번만 저장 · 폰에서 홈 화면에 추가 버튼"
  ]
 }
